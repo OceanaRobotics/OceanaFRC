@@ -12,6 +12,8 @@ Youtube video of a `LIVE match replay`: [Qual78 @ GVSU][Qual78]
 
 AP Computer Science Training: [HartHS_Robotics_APCSA][APCSA]
 
+Google Drive (see facility): [MSUCenter][MSU]
+
 The Blue Alliance homepage: [The Blue Alliance Team 6128][TBA]
 
 <!-- Website source code for Oceana County FRC: [FRC Team 6128 Repository][OceanaFRCrepository] -->
@@ -22,7 +24,7 @@ The Blue Alliance homepage: [The Blue Alliance Team 6128][TBA]
       <img src="https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/893/2018/09/26151545/HPS_Pirate_RGB.png" alt="HHSPirate" width="200">
     </td>
     <td>
-      <img src="https://cmsv2-assets.apptegy.net/uploads/14477/file/2146300/px1600_c370858a-13f3-4b1b-b5aa-2b30275596b1.png" alt="SHSTigers" width="200">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fshelbyathletics.com%2F&psig=AOvVaw0fJgiQM9WQR96fVh1Kx_IP&ust=1691796050642000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiqosed04ADFQAAAAAdAAAAABAE" alt="SHSTigers" width="200">
     </td>
   </tr>
   <tr>
@@ -47,4 +49,5 @@ Please `email` your coaches telling them:
 [OceanaFRCrepository]: https://nrhartfrc.github.io/
 [Qual78]: https://www.thebluealliance.com/match/2023miwmi_qm78
 [APCSA]: https://course.csawesome.org
+[MSU]: https://drive.google.com/drive/folders/1x9UObfBQId2rwInRlrZxavEPQuLbMj_R?usp=sharing
 [TBA]: https://www.thebluealliance.com/team/6128
