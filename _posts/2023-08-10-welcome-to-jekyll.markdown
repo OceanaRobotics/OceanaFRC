@@ -24,7 +24,7 @@ The Blue Alliance homepage: [The Blue Alliance Team 6128][TBA]
       <img src="https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/893/2018/09/26151545/HPS_Pirate_RGB.png" alt="HHSPirate" width="200">
     </td>
     <td>
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fshelbyathletics.com%2F&psig=AOvVaw0fJgiQM9WQR96fVh1Kx_IP&ust=1691796050642000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiqosed04ADFQAAAAAdAAAAABAE" alt="SHSTigers" width="200">
+      <img src="https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/1583/2017/08/02153836/517.png" alt="SHSTigers" width="200">
     </td>
   </tr>
   <tr>
