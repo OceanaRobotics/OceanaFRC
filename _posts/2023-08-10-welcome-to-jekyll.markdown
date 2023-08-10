@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to FIRST Robotics Team 6128!"
 date:   2023-08-10 14:37:26 -0400
 categories: jekyll update
 ---
