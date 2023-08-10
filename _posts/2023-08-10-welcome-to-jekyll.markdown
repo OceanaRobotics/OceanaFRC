@@ -1,11 +1,19 @@
 ---
 layout: post
-title:  "Tap  nto FIRST Robotics Team 6128!"
+title:  "Tap  into FIRST Robotics Team 6128!"
 date:   2023-08-10 14:37:26 -0400
 categories: jekyll update
 ---
-## Welcoming returning Teamsters and new members!
-<font color="red">## This text is red!</font>
+# <span style="color: #008080;">Welcome return Teamsters and new members!</span>
+
+#### FYI Robotics `Coach` email appears at the bottom of this page.
+
+## <span style="color: green;"Register a FIRST account for change to win a set of Bondus color-coded, ball-end Allen wrench set</span>
+
+<div style="text-align: center;">
+  <img src="https://3989ac5bcbe1edfc864a-0a7f10f87519dba22d2dbc6233a731e5.ssl.cf2.rackcdn.com/bondhus42/72-dpi-graphics/colorguard/69637_copy2.png" alt="BondusAllenset">
+</div>
+
 
 Official FIRST Robotics Website: [firstinspires.org][firstinspires]
 
