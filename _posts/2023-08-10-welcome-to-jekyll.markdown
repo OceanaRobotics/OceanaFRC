@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Welcome to FIRST Robotics Team 6128!"
+title:  "Tap  nto FIRST Robotics Team 6128!"
 date:   2023-08-10 14:37:26 -0400
 categories: jekyll update
 ---
+## Welcoming returning Teamsters and new members!
+<font color="red">## This text is red!</font>
+
 Official FIRST Robotics Website: [firstinspires.org][firstinspires]
 
 Login or Register FIRST account: [FIRST Registration][firstreg]
@@ -18,13 +21,14 @@ The Blue Alliance homepage: [The Blue Alliance Team 6128][TBA]
 
 <!-- Website source code for Oceana County FRC: [FRC Team 6128 Repository][OceanaFRCrepository] -->
 
-<table style="width:100%; text-align:center;">
+{::nomarkdown}
+<table style="width:100%; text-align:center; border-collapse: collapse;">
   <tr>
     <td>
       <img src="https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/893/2018/09/26151545/HPS_Pirate_RGB.png" alt="HHSPirate" width="200">
     </td>
     <td>
-      <img src="https://mail.google.com/mail/u/0/#inbox/FMfcgzGtwVxjQGgPqklmtsctTTJjpQKh?projector=1&messagePartId=0.1" alt="SHSTigers" width="200">
+      <img src="https://cmsv2-assets.apptegy.net/uploads/14477/file/2146300/px1600_c370858a-13f3-4b1b-b5aa-2b30275596b1.png" alt="SHSTigers" width="200">
     </td>
   </tr>
   <tr>
@@ -36,8 +40,9 @@ The Blue Alliance homepage: [The Blue Alliance Team 6128][TBA]
     </td>
   </tr>
 </table>
+{:/nomarkdown}
 
-Please `email` your coaches telling them:
+Please `email` your new robotics coaches telling them (email below):
 <ol>
     <li>one thing you are <mark>excited</mark> about</li>
     <li>one thing your are nervous about</li>
