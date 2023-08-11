@@ -10,9 +10,8 @@ categories: jekyll update
   <h2 style="font-size: 24px;">We recommend parent/guardian register first, then students.</h2>
   <img src="/_assets/images/6128.png" alt="6128" />
   
-  Parent / Guardian / Student Registration starts here: [Youth Registration Forms][FIRSTregforms]
   <!-- this is a comment (which will not appear on the published website)-->
-  <!-- <p>Parent / Student Registration starts here: <a href="[FIRSTregforms]">Youth Registration Forms</a></p> -->
-  [FIRSTregforms]: https://www.firstinspires.org/resource-library/youth-registration-system
-
+  <p>Parent / Student Registration starts here: <a href="[FIRSTregforms]">Youth Registration Forms</a></p>
 </div>
+
+[FIRSTregforms]: https://www.firstinspires.org/resource-library/youth-registration-system
