@@ -11,7 +11,11 @@ categories: jekyll update
   <img src="https://3989ac5bcbe1edfc864a-0a7f10f87519dba22d2dbc6233a731e5.ssl.cf2.rackcdn.com/bondhus42/72-dpi-graphics/colorguard/69637_copy2.png" alt="BondusAllenset">
 </div>
 
-# <span style="color: #008080;">Welcome new & returning team members!</span>
+<div style="text-align: center;">
+  <span style="display: block; font-size: 36px; color: #008080;">
+    Welcome new & returning team members!
+  </span>
+</div>
 
 ##### FYI Robotics `Coach's email` appears at the bottom of this page.
 
