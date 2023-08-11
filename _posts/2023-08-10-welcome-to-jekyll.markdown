@@ -24,12 +24,12 @@ AP Computer Science Training: [HartHS_Robotics_APCSA][APCSA]
 
 Google Drive (see facility): [MSUCenter][MSU]
 
-The Blue Alliance homepage: [The Blue Alliance Team 6128][TBA]
+The Blue Alliance homepage: [Team 6128 Statistics][TBA]
 
 <!-- Website source code for Oceana County FRC: [FRC Team 6128 Repository][OceanaFRCrepository] -->
 
 {::nomarkdown}
-<table style="width:100%; text-align:center; border-collapse: collapse;">
+<table style="width:100%; text-align:center; border-collapse: collapse; border: 0;">
   <tr>
     <td>
       <img src="https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/893/2018/09/26151545/HPS_Pirate_RGB.png" alt="HHSPirate" width="200">
