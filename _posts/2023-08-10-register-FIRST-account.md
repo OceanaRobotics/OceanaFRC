@@ -4,17 +4,10 @@ title:  "Student Registration"
 date:   2023-08-10 14:37:36 -0400
 categories: jekyll update
 ---
-<body>
-    <h1>Welcome to the registration blog</h1>
-    <img src="/_assets/images/6128.png" alt="6128">
-    <p>Parent / Student Registration here: <a href="https://www.firstinspires.org/resource-library/youth-registration-system">Youth Registration Forms</a></p>
-</body>
-
-<!-- # Welcome to the registration blog
+# Welcome to the registration blog
 
 ![6128](/_assets/images/6128.png)
 
 Parent / Student Registration starts here: [Youth Registration Forms][FIRSTregforms]
--->
 
 [FIRSTregforms]: https://www.firstinspires.org/resource-library/youth-registration-system
