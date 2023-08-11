@@ -6,6 +6,6 @@ categories: jekyll update
 ---
 # Welcome to the registration blog
 <img src="/_assets/images/6128.png" alt="Logo">
-Register Student here: [Youth Registration Forms][FIRSTregforms]
+Parent / Student Registration here: [Youth Registration Forms][FIRSTregforms]
 
 [FIRSTregforms]: https://www.firstinspires.org/resource-library/youth-registration-system
