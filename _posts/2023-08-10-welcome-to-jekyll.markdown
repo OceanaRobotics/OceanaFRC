@@ -17,19 +17,19 @@ categories: jekyll update
   </span>
 </div>
 
-##### FYI Robotics `Coach's email` appears at the bottom of this page.
-
-Official FIRST Robotics Website: [firstinspires.org][firstinspires]
-
-Login/Register for a FIRST account: [FIRST Registration][firstreg]
-
-Youtube video of a `LIVE match replay`: [Qual78 @ GVSU][Qual78]
-
-AP Computer Science Training: [HartHS_Robotics_APCSA][APCSA]
-
-The Blue Alliance homepage: [Team 6128 Statistics][TBA]
-
-Google Drive (see facility): [MSUCenter][MSU]
+<div style="text-align: center;">
+  <!-- Content to be centered -->
+  <span style="display: block; font-size: 24px; color: #ABCDEF;">
+    FYI Robotics `Coach's email` appears at the bottom of this page.
+  </span>
+  Official FIRST Robotics Website: <a href="[firstinspires]">firstinspires.org</a><br>
+  Login/Register for a FIRST account: <a href="[firstreg]">FIRST Registration</a><br>
+  Youtube video of a LIVE match replay: <a href="[Qual78]">Qual78 @ GVSU</a><br>
+  AP Computer Science Training: <a href="[APCSA]">HartHS_Robotics_APCSA</a><br>
+  The Blue Alliance homepage: <a href="[TBA]">Team 6128 Statistics</a><br>
+  See facility: <a href="[MSU]">MSU AgBioResearch</a><br>
+  FRC Fall2023 Poster: <a href="[FRCPoster]">Download Poster</a><br>
+</div>
 <div style="display: flex; justify-content: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -75,3 +75,4 @@ Please `email` the robotics coaches with:
 [APCSA]: https://runestone.academy/ns/books/published/HartHS_APCSA_FRC24/index.html
 [MSU]: https://drive.google.com/drive/folders/1x9UObfBQId2rwInRlrZxavEPQuLbMj_R?usp=sharing
 [TBA]: https://www.thebluealliance.com/team/6128
+[FRCPoster]: https://drive.google.com/file/d/1ncob92Pq0ILPDAlG7XROPMt_NxwRxsf3/view?usp=sharing
