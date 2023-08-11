@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <body>
     <h1>Welcome to the registration blog</h1>
-    <img src="/_assets/images/6128.png" alt="Logo">
+    ![6128](/_assets/images/6128.png)
     <p>Parent / Student Registration here: <a href="https://www.firstinspires.org/resource-library/youth-registration-system">Youth Registration Forms</a></p>
 </body>
 
