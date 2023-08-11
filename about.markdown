@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-### Please get permission from your parent or guardian to register. They will help you complete the forms that FIRST needs to allow you to join the team.
+### Please get permission from your parent or guardian to register. They will help you complete the forms that FIRST needs to allow you to join the team. <big>:trollface:</big>>
 
 <div style="display: flex; justify-content: center;">
   <img src="https://i.imgur.com/AgjWNb1.gif" alt="OUCH">
-  :trollface:{: style="font-size: larger;"}
 </div>
 <!--
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
