@@ -19,8 +19,8 @@ categories: jekyll update
 
 <div style="text-align: center;">
   <!-- Content to be centered -->
-  <span style="display: block; font-size: 24px; color: #ABCDEF;">
-    FYI Robotics `Coach's email` appears at the bottom of this page.
+  <span style="display: block; font-size: 18px;">
+    FYI Robotics <code>Coach's email</code> appears at the bottom of this page.
   </span>
   Official FIRST Robotics Website: <a href="[firstinspires]">firstinspires.org</a><br>
   Login/Register for a FIRST account: <a href="[firstreg]">FIRST Registration</a><br>
@@ -56,10 +56,10 @@ categories: jekyll update
 {:/nomarkdown}
 Please `email` the robotics coaches with:
 <ol>
-    <li>one thing you are <mark>excited</mark> about</li>
-    <li>one thing your are nervous about</li>
-    <li>one thing you want to <em>learn</em></li>
-    <li>at least one <span style="text-decoration: underline;">question</span> you have</li>
+    <li><code>one thing you are <mark>excited</mark> about</code></li>
+    <li><code>one thing your are nervous about</li></code>
+    <li><code>one thing you want to <em>learn</em></li>
+    <li>at least one <span style="text-decoration: underline;">question</span> you have</code></li>
 </ol>
 <div style="display: flex; justify-content: center;">
   <img src="https://www.chiefdelphi.com/uploads/default/original/3X/2/c/2c8ea0c8df7a9f0cd14aa04289ad8b23d94a3e06.gif" alt="Auton">
