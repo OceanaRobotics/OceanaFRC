@@ -4,7 +4,7 @@ title:  "Registration"
 date:   2023-08-10 14:37:36 -0400
 categories: jekyll update
 ---
-<div align="center";>
+<div align="center">
   <h1 style="font-size: 36px;">Welcome to the registration page.</h1>
   <h2 style="font-size: 24px;">We recommend parent/guardian register first, then students.</h2>
 
