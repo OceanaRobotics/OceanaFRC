@@ -10,7 +10,7 @@ categories: jekyll update
 
   <img src="/_assets/images/6128.png" alt="6128">
 
-  <h1>Parent / Student Registration starts here: <a href="[link_here]">Youth Registration Forms</a></h1>
+  <h1>Parent / Student Registration starts here: <a href="[https://www.firstinspires.org/resource-library/youth-registration-system]">Youth Registration Forms</a></h1>
 </div>
 
-[FIRSTregforms]: https://www.firstinspires.org/resource-library/youth-registration-system
+<!-- [FIRSTregforms]: https://www.firstinspires.org/resource-library/youth-registration-system -->
