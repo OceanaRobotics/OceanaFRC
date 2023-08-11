@@ -24,18 +24,18 @@ categories: jekyll update
   </span>
   Official FIRST Robotics Website: <a href="[firstinspires]">firstinspires.org</a><br>
   Login/Register for a FIRST account: <a href="[firstreg]">FIRST Registration</a><br>
-  Youtube video of a LIVE match replay: <a href="[Qual78]">Qual78 @ GVSU</a><br>
+  Video of a <code>LIVE match replay</code>: <a href="[Qual78]">Qual78 @ GVSU</a><br>
   AP Computer Science Training: <a href="[APCSA]">HartHS_Robotics_APCSA</a><br>
-  The Blue Alliance homepage: <a href="[TBA]">Team 6128 Statistics</a><br>
+  The Blue Alliance: <a href="[TBA]">Team 6128 Stats</a><br>
+  Robotics Poster: <a href="[FRCPoster]">Download Poster</a><br>
   See facility: <a href="[MSU]">MSU AgBioResearch</a><br>
-  FRC Fall2023 Poster: <a href="[FRCPoster]">Download Poster</a><br>
 </div>
 <div style="display: flex; justify-content: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border:2px solid black;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {::nomarkdown}
-<table style="width:100%; text-align:center; border-collapse: collapse; border: 0;">
+<table style="width:100%; text-align:center; border-collapse: collapse; border: 4px double black;">
   <tr>
     <td>
       <img src="https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/893/2018/09/26151545/HPS_Pirate_RGB.png" alt="HHSPirate" width="200">
@@ -54,15 +54,13 @@ categories: jekyll update
   </tr>
 </table>
 {:/nomarkdown}
-<div>
-  Please `email` the robotics coaches with:
-  <ol>
-    <li><code>one thing you are <mark>excited</mark> about</code></li>
-    <li><code>one thing your are nervous about</code></li>
-    <li><code>one thing you want to <em>learn</em></code></li>
-    <li><code>at least one <span style="text-decoration: underline;">question</span> you have</code></li>
+Please <code>email</code> the robotics coaches with:
+<ol>
+  <li><code>one thing you are <mark>excited</mark> about</code></li>
+  <li><code>one thing your are nervous about</code></li>
+  <li><code>one thing you want to <em>learn</em></code></li>
+  <li><code>at least one <span style="text-decoration: underline;">question</span> you have</code></li>
 </ol>
-</div>
 <div style="display: flex; justify-content: center;">
   <img src="https://www.chiefdelphi.com/uploads/default/original/3X/2/c/2c8ea0c8df7a9f0cd14aa04289ad8b23d94a3e06.gif" alt="Auton">
 </div>
