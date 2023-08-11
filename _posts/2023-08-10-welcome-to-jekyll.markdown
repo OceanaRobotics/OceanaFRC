@@ -53,6 +53,10 @@ Please `email` the robotics coaches with:
     <li>one thing you want to <em>learn</em></li>
     <li>at least one <span style="text-decoration: underline;">question</span> you have</li>
 </ol>
+<div style="display: flex; justify-content: center;">
+  <img src="https://www.chiefdelphi.com/uploads/default/original/3X/2/c/2c8ea0c8df7a9f0cd14aa04289ad8b23d94a3e06.gif" alt="Auton">
+</div>
+
 [firstinspires]: https://www.firstinspires.org/robotics/frc
 [firstreg]: https://login2.firstinspires.org/Account/Login
 [Qual78]: https://www.thebluealliance.com/match/2023miwmi_qm78
