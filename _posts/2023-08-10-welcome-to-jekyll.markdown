@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 # <span style="color: #008080;">Welcome returning and new team members!</span>
 
-#### FYI Robotics `Coach email3 appears at the bottom of this page.
+#### FYI Robotics `Coach email` appears at the bottom of this page.
 
 <div style="text-align: center;">
   <h2 style="color: green;">Register a FIRST account for a chance to win a Bondhus color-coded, ball-end Allen wrench set</h2>
@@ -22,10 +22,12 @@ Youtube video of a `LIVE match replay`: [Qual78 @ GVSU][Qual78]
 
 AP Computer Science Training: [HartHS_Robotics_APCSA][APCSA]
 
-Google Drive (see facility): [MSUCenter][MSU]
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 The Blue Alliance homepage: [Team 6128 Statistics][TBA]
+
+Google Drive (see facility): [MSUCenter][MSU]
+<div style="display: flex; justify-content: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {::nomarkdown}
 <table style="width:100%; text-align:center; border-collapse: collapse; border: 0;">
