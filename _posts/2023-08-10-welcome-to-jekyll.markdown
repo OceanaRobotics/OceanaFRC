@@ -1,22 +1,23 @@
 ---
 layout: post
-title:  "Tap  into FIRST Robotics Team 6128!"
+title:  "Tap  in to FIRST Robotics Team 6128!"
 date:   2023-08-10 14:37:26 -0400
 categories: jekyll update
 ---
-# <span style="color: #008080;">Welcome returning and new team members!</span>
-
-#### FYI Robotics `Coach email` appears at the bottom of this page.
-
 <div style="text-align: center;">
   <h2 style="color: green;">Register a FIRST account for a chance to win a Bondhus color-coded, ball-end Allen wrench set</h2>
 </div>
 <div style="text-align: center;">
   <img src="https://3989ac5bcbe1edfc864a-0a7f10f87519dba22d2dbc6233a731e5.ssl.cf2.rackcdn.com/bondhus42/72-dpi-graphics/colorguard/69637_copy2.png" alt="BondusAllenset">
 </div>
+
+# <span style="color: #008080;">Welcome new & returning team members!</span>
+
+##### FYI Robotics `Coach's email` appears at the bottom of this page.
+
 Official FIRST Robotics Website: [firstinspires.org][firstinspires]
 
-Login or Register for a FIRST account: [FIRST Registration][firstreg]
+Login/Register for a FIRST account: [FIRST Registration][firstreg]
 
 Youtube video of a `LIVE match replay`: [Qual78 @ GVSU][Qual78]
 
