@@ -4,12 +4,13 @@ title:  "Tap  into FIRST Robotics Team 6128!"
 date:   2023-08-10 14:37:26 -0400
 categories: jekyll update
 ---
-# <span style="color: #008080;">Welcome return Teamsters and new members!</span>
+# <span style="color: #008080;">Welcome returning and new team members!</span>
 
 #### FYI Robotics `Coach` email appears at the bottom of this page.
 
-## <span style="color: green;">Register a FIRST account for a chance to win a set of Bondhus color-coded, ball-end Allen wrench set</span>
-
+<div style="text-align: center;">
+  <h2 style="color: green;">Register a FIRST account for a chance to win a Bondhus color-coded, ball-end Allen wrench set</h2>
+</div>
 <div style="text-align: center;">
   <img src="https://3989ac5bcbe1edfc864a-0a7f10f87519dba22d2dbc6233a731e5.ssl.cf2.rackcdn.com/bondhus42/72-dpi-graphics/colorguard/69637_copy2.png" alt="BondusAllenset">
 </div>
@@ -48,12 +49,12 @@ The Blue Alliance homepage: [The Blue Alliance Team 6128][TBA]
 </table>
 {:/nomarkdown}
 
-Please `email` your new robotics coaches telling them (email below):
+Please `email` the robotics coaches with:
 <ol>
     <li>one thing you are <mark>excited</mark> about</li>
     <li>one thing your are nervous about</li>
     <li>one thing you want to <em>learn</em></li>
-    <li>one question you have</li>
+    <li>one <span style="text-decoration: underline;">question</span> you have</li>
 </ol>
 [firstinspires]: https://www.firstinspires.org/robotics/frc
 [firstreg]: https://login2.firstinspires.org/Account/Login
