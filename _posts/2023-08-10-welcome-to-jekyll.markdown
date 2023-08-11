@@ -28,33 +28,29 @@ The Blue Alliance homepage: [Team 6128 Statistics][TBA]
 
 <!-- Website source code for Oceana County FRC: [FRC Team 6128 Repository][OceanaFRCrepository] -->
 
-{::nomarkdown}
-<table style="width:100%; text-align:center; border-collapse: collapse; border: 0;">
-  <tr>
-    <td>
-      <img src="https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/893/2018/09/26151545/HPS_Pirate_RGB.png" alt="HHSPirate" width="200">
-    </td>
-    <td>
-      <img src="https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/1583/2017/08/02153836/517.png" alt="SHSTigers" width="200">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://walkervillewildcats.com/wp-content/uploads/2018/11/Wildcat4.png" alt="WHSWildcats" width="200">
-    </td>
-    <td>
-      <img src="https://cmsv2-assets.apptegy.net/uploads/2721/logo/3009/logo.png" alt="PHSFalcons" width="200">
-    </td>
-  </tr>
-</table>
-{:/nomarkdown}
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; text-align: center;">
+    ![HHSPirates](https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/893/2018/09/26151545/HPS_Pirate_RGB.png){: width="200"}
+  </div>
+  <div style="flex: 1; text-align: center;">
+    ![SHSTigers](https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/1583/2017/08/02153836/517.png){: width="200"}
+  </div>
+</div>
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; text-align: center;">
+    ![WHSWildcats](https://walkervillewildcats.com/wp-content/uploads/2018/11/Wildcat4.png){: width="200"}
+  </div>
+  <div style="flex: 1; text-align: center;">
+    ![PHSFalcons](https://cmsv2-assets.apptegy.net/uploads/2721/logo/3009/logo.png){: width="200"}
+  </div>
+</div>
 
 Please `email` the robotics coaches with:
 <ol>
     <li>one thing you are <mark>excited</mark> about</li>
     <li>one thing your are nervous about</li>
     <li>one thing you want to <em>learn</em></li>
-    <li>one <span style="text-decoration: underline;">question</span> you have</li>
+    <li>at least one <span style="text-decoration: underline;">question</span> you have</li>
 </ol>
 [firstinspires]: https://www.firstinspires.org/robotics/frc
 [firstreg]: https://login2.firstinspires.org/Account/Login
