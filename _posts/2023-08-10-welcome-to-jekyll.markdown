@@ -12,7 +12,7 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center;">
-  <span style="display: block; font-size: 36px; color: #008080;">
+  <span style="display: block; font-size: 48px; color: #008080;">
     Welcome new & returning team members!
   </span>
 </div>
