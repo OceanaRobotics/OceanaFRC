@@ -27,12 +27,12 @@ categories: jekyll update
   See facility: <a href="[MSU]">MSU AgBioResearch</a><br>
 </div>
 <div style="display: flex; justify-content: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border:2px solid black;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border:6px solid black;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div style="text-align: center;">
   <span style="display: block; font-size: 18px;">
-    FYI <code>Coach's email</code> appears at the bottom of this page.
+    FYI <code>Coach's email</code> appears at the bottom of this page. :grimacing:
   </span>
 </div>
 
@@ -56,7 +56,7 @@ categories: jekyll update
   </tr>
 </table>
 {:/nomarkdown}
-Please email the robotics coaches with:
+Please email the coaches with:
 <ol>
   <li>one thing you are <mark>excited</mark> about</li>
   <li>one thing your are nervous about</li>
