@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 # <span style="color: #008080;">Welcome returning and new team members!</span>
 
-#### FYI Robotics `Coach` email appears at the bottom of this page.
+#### FYI Robotics `Coach email3 appears at the bottom of this page.
 
 <div style="text-align: center;">
   <h2 style="color: green;">Register a FIRST account for a chance to win a Bondhus color-coded, ball-end Allen wrench set</h2>
@@ -16,13 +16,14 @@ categories: jekyll update
 </div>
 Official FIRST Robotics Website: [firstinspires.org][firstinspires]
 
-Login or Register FIRST account: [FIRST Registration][firstreg]
+Login or Register for a FIRST account: [FIRST Registration][firstreg]
 
 Youtube video of a `LIVE match replay`: [Qual78 @ GVSU][Qual78]
 
 AP Computer Science Training: [HartHS_Robotics_APCSA][APCSA]
 
 Google Drive (see facility): [MSUCenter][MSU]
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 The Blue Alliance homepage: [Team 6128 Statistics][TBA]
 
@@ -57,9 +58,13 @@ Please `email` the robotics coaches with:
   <img src="https://www.chiefdelphi.com/uploads/default/original/3X/2/c/2c8ea0c8df7a9f0cd14aa04289ad8b23d94a3e06.gif" alt="Auton">
 </div>
 
+<div style="display: flex; justify-content: center;">
+  <img src="https://seekvectorlogo.net/wp-content/uploads/2019/03/first-robotics-competition-vector-logo.png" alt="FIRST">
+</div>
+
 [firstinspires]: https://www.firstinspires.org/robotics/frc
 [firstreg]: https://login2.firstinspires.org/Account/Login
 [Qual78]: https://www.thebluealliance.com/match/2023miwmi_qm78
-[APCSA]: https://course.csawesome.org
+[APCSA]: https://runestone.academy/ns/books/published/HartHS_APCSA_FRC24/index.html
 [MSU]: https://drive.google.com/drive/folders/1x9UObfBQId2rwInRlrZxavEPQuLbMj_R?usp=sharing
 [TBA]: https://www.thebluealliance.com/team/6128
