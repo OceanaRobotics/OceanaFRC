@@ -18,13 +18,13 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center;">
-  Official FIRST Robotics Website: <a href="[firstinspires]">firstinspires.org</a><br>
-  Login/Register for a FIRST account: <a href="[firstreg]">FIRST Registration</a><br>
-  Video of a <code>LIVE match replay</code>: <a href="[Qual78]">Qual78 @ GVSU</a><br>
-  AP Computer Science Training: <a href="[APCSA]">HartHS_Robotics_APCSA</a><br>
-  The Blue Alliance: <a href="[TBA]">Team 6128 Stats</a><br>
-  Robotics Poster: <a href="[FRCPoster]">Download Poster</a><br>
-  See facility: <a href=[MSU]>MSU AgBioResearch</a><br>
+  Official FIRST Robotics Website: <a href="https://www.firstinspires.org/robotics/frc">firstinspires.org</a><br>
+  Login/Register for a FIRST account: <a href="https://login2.firstinspires.org/Account/Login">FIRST Registration</a><br>
+  Video of a <code>LIVE match replay</code>: <a href="https://www.thebluealliance.com/match/2023miwmi_qm78">Qual78 @ GVSU</a><br>
+  AP Computer Science Training: <a href="https://runestone.academy/ns/books/published/HartHS_APCSA_FRC24/index.html">HartHS_Robotics_APCSA</a><br>
+  The Blue Alliance: <a href="https://www.thebluealliance.com/team/6128">Team 6128 Stats</a><br>
+  Robotics Poster: <a href="https://drive.google.com/file/d/1ncob92Pq0ILPDAlG7XROPMt_NxwRxsf3/view?usp=sharing">Download Poster</a><br>
+  See facility: <a href="https://drive.google.com/drive/folders/1x9UObfBQId2rwInRlrZxavEPQuLbMj_R?usp=sharing">MSU AgBioResearch</a><br>
 </div>
 <div style="display: flex; justify-content: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border:6px solid black;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
