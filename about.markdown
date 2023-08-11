@@ -8,6 +8,7 @@ permalink: /about/
 
 <div style="display: flex; justify-content: center;">
   <img src="https://i.imgur.com/AgjWNb1.gif" alt="OUCH">
+  :trollface:{: style="font-size: larger;"}
 </div>
 <!--
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
