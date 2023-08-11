@@ -7,7 +7,7 @@ categories: jekyll update
 <body>
     <h1>Welcome to the registration blog</h1>
     <img src="/_assets/images/6128.png" alt="Logo">
-    <p>Parent / Student Registration here: <a href="[Your Link Here]">Youth Registration Forms</a></p>
+    <p>Parent / Student Registration here: <a href="[FIRSTregforms]">Youth Registration Forms</a></p>
 </body>
 
 <!-- # Welcome to the registration blog
