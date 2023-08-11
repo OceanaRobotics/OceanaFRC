@@ -39,23 +39,24 @@ categories: jekyll update
 {::nomarkdown}
 <table style="width:100%; text-align:center; border-collapse: collapse; border: none;">
   <tr>
-    <td>
+    <td style="border-radius: 10px; overflow: hidden;">
       <img src="https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/893/2018/09/26151545/HPS_Pirate_RGB.png" alt="HHSPirate" width="200">
     </td>
-    <td>
+    <td style="border-radius: 10px; overflow: hidden;">
       <img src="https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/1583/2017/08/02153836/517.png" alt="SHSTigers" width="200">
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="border-radius: 10px; overflow: hidden;">
       <img src="https://walkervillewildcats.com/wp-content/uploads/2018/11/Wildcat4.png" alt="WHSWildcats" width="200">
     </td>
-    <td>
+    <td style="border-radius: 10px; overflow: hidden;">
       <img src="https://cmsv2-assets.apptegy.net/uploads/2721/logo/3009/logo.png" alt="PHSFalcons" width="200">
     </td>
   </tr>
 </table>
 {:/nomarkdown}
+
 Please email the coaches with:
 <ol>
   <li>one thing you are <mark>excited</mark> about</li>
