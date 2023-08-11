@@ -54,13 +54,15 @@ categories: jekyll update
   </tr>
 </table>
 {:/nomarkdown}
-Please `email` the robotics coaches with:
-<ol>
+<div>
+  Please `email` the robotics coaches with:
+  <ol>
     <li><code>one thing you are <mark>excited</mark> about</code></li>
-    <li><code>one thing your are nervous about</li></code>
-    <li><code>one thing you want to <em>learn</em></li>
-    <li>at least one <span style="text-decoration: underline;">question</span> you have</code></li>
+    <li><code>one thing your are nervous about</code></li>
+    <li><code>one thing you want to <em>learn</em></code></li>
+    <li><code>at least one <span style="text-decoration: underline;">question</span> you have</code></li>
 </ol>
+</div>
 <div style="display: flex; justify-content: center;">
   <img src="https://www.chiefdelphi.com/uploads/default/original/3X/2/c/2c8ea0c8df7a9f0cd14aa04289ad8b23d94a3e06.gif" alt="Auton">
 </div>
