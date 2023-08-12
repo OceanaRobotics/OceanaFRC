@@ -42,9 +42,8 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center;">
-  <h3 style="color: pink; font-size: 48px; margin-bottom: 0; font-weight: bold;">where?</h3><br>
+  <h3 style="color: pink; font-size: 48px; margin: 0; font-weight: bold;">where?</h3><br>
 </div>
-
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border:6px solid black;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -91,10 +90,17 @@ Please email the coaches with:
   <img src="https://seekvectorlogo.net/wp-content/uploads/2019/03/first-robotics-competition-vector-logo.png" alt="FIRST">
 </div>
 
+<div style="text-align: center;">
+  <h4 style="color: orange; font-family: Arial, sans-serif; font-size: 32px; margin-bottom: 0; font-weight: bold;">Learn how to build a web-based resume!</h4><br>
+  <iframe src="https://resume-template.joelglovier.com/" width="100%" height="600" frameborder="0" style="margin: 0 auto;"></iframe>
+</div>
+
+<!--
 <div style="display: flex; justify-content: center;">
-  <h4 style="color: pink; font-family: Arial, sans-serif; font-size: 24px; margin-bottom: 0;">Learn how to build a web-based resume!</h4><br>
+  <h4 style="color: orange; font-family: Arial, sans-serif; font-size: 32px; margin-bottom: 0;">Learn how to build a web-based resume!</h4><br>
   <iframe src="https://resume-template.joelglovier.com/" width="100%" height="600" frameborder="0"></iframe>
 </div>
+-->
 
 [firstinspires]: https://www.firstinspires.org/robotics/frc
 [firstreg]: https://login2.firstinspires.org/Account/Login
