@@ -1,29 +1,30 @@
 ---
 layout: post
-title:  "Join Robotics Team 6128!"
+title:  "Join Robotics Team 6128"
 date:   2023-08-10 14:37:26 -0400
 categories: jekyll update
 ---
 <div style="text-align: center;">
   <h2 style="color: green;">Register a FIRST account for a chance to win a Bondhus color-coded, ball-end Allen wrench set</h2>
 </div>
+
 <div style="text-align: center;">
   <img src="https://3989ac5bcbe1edfc864a-0a7f10f87519dba22d2dbc6233a731e5.ssl.cf2.rackcdn.com/bondhus42/72-dpi-graphics/colorguard/69637_copy2.png" alt="BondusAllenset">
 </div>
-
-<head>
-  <style>
-    .break-item {
-      margin: 20px 0;
-    }
-  </style>
-</head>
 
 <div style="text-align: center; margin-bottom: 20px;">
   <span style="display: block; font-size: 40px; color: #008080;">
     Welcome new & returning team members!
   </span>
 </div>
+
+<head>
+  <style>
+    .break-item {
+      margin: 20px 0 !important; <!-- added important rule -->
+    }
+  </style>
+</head>
 
 <div style="text-align: center; margin-bottom: 20px;">
   Official FIRST Robotics Website: <a href="https://www.firstinspires.org/robotics/frc">firstinspires.org</a><br class="break-item">
@@ -38,6 +39,10 @@ categories: jekyll update
   The Blue Alliance: <a href="https://www.thebluealliance.com/team/6128">Team 6128 Stats</a><br class="break-item">
   Robotics Poster: <a href="https://drive.google.com/file/d/1ncob92Pq0ILPDAlG7XROPMt_NxwRxsf3/view?usp=sharing">Download Poster</a><br class="break-item">
   Facility pics: <a href="https://drive.google.com/drive/folders/1x9UObfBQId2rwInRlrZxavEPQuLbMj_R?usp=sharing">MSU AgBioResearch</a><br class="break-item">
+</div>
+
+<div style="text-align: center;">
+    <h3 style="color: pink;">where?</h3><br class="break-item">
 </div>
 
 <!--comment out-->
@@ -98,6 +103,11 @@ Please email the coaches with:
 
 <div style="display: flex; justify-content: center;">
   <img src="https://seekvectorlogo.net/wp-content/uploads/2019/03/first-robotics-competition-vector-logo.png" alt="FIRST">
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <h4 style="color: pink; font-family: Arial, sans-serif; font-size: 24px;">Learn how to build a web resume!</h4><br class="break-item">
+  <iframe src="https://resume-template.joelglovier.com/" width="100%" height="600" frameborder="0"></iframe>
 </div>
 
 [firstinspires]: https://www.firstinspires.org/robotics/frc
