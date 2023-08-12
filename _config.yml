@@ -41,7 +41,7 @@ include:
   - assets
 
 # add favicon to make a fun tab
-favicon: "/assets/images/favicon.ico"
+favicon: "/assets/images/robot.png"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
