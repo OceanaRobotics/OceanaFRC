@@ -11,11 +11,13 @@ categories: jekyll update
   <img src="https://3989ac5bcbe1edfc864a-0a7f10f87519dba22d2dbc6233a731e5.ssl.cf2.rackcdn.com/bondhus42/72-dpi-graphics/colorguard/69637_copy2.png" alt="BondusAllenset">
 </div>
 
-<style>
-  .break-item {
-    margin: 50px 0;
-  }
-</style>
+<head>
+  <style>
+    .break-item {
+      margin: 20px 0;
+    }
+  </style>
+</head>
 
 <div style="text-align: center; margin-bottom: 20px;">
   <span style="display: block; font-size: 40px; color: #008080;">
@@ -26,7 +28,7 @@ categories: jekyll update
 <div style="text-align: center; margin-bottom: 20px;">
   Official FIRST Robotics Website: <a href="https://www.firstinspires.org/robotics/frc">firstinspires.org</a><br class="break-item">
   Login/Register for a FIRST account: <a href="https://login2.firstinspires.org/Account/Login">FIRST Registration</a><br class="break-item">
-  <div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: center;">
     <div style="max-width: 100%; width: 100%; position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */">
       <iframe src="https://www.youtube.com/embed/C77dCZUTUpo" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
