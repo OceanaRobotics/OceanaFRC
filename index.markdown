@@ -6,5 +6,5 @@ layout: home
 ---
 
 <div class="footer-col">
-  <div class="footer-col2" style="font-size: 16px;">Your content here</div>
+  <div class="footer-col2" style="font-size: 14px;">Your content here</div>
 </div>
