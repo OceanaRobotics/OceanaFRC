@@ -42,7 +42,7 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center;">
-  <h3 style="color: pink; font-size: 48px; margin: 0; font-weight: bold;">where?</h3><br>
+  <h3 style="color: pink; font-size: 60px; margin: 0; font-weight: bold;">where?</h3><br>
 </div>
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border:6px solid black;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -86,7 +86,7 @@ Please email the coaches with:
   <img src="https://www.chiefdelphi.com/uploads/default/original/3X/2/c/2c8ea0c8df7a9f0cd14aa04289ad8b23d94a3e06.gif" alt="Auton">
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin-bottom: 50px;">
   <img src="https://seekvectorlogo.net/wp-content/uploads/2019/03/first-robotics-competition-vector-logo.png" alt="FIRST">
 </div>
 
