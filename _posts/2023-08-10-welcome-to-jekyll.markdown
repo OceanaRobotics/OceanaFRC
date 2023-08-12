@@ -28,6 +28,36 @@ categories: jekyll update
 </head>
 -->
 
+<div style="text-align: center;">
+  <div style="padding-bottom: 20px;">
+    Official FIRST Robotics Website: <a href="https://www.firstinspires.org/robotics/frc">firstinspires.org</a><br>
+  </div>
+  <div style="padding-bottom: 25px;">
+    Login/Register for a FIRST account: <a href="https://login2.firstinspires.org/Account/Login">FIRST Registration</a><br>
+  </div>
+  <div style="display: flex; justify-content: center;">
+    <div style="max-width: 100%; width: 100%; position: relative; padding-bottom: 56.25%;">
+      <iframe src="https://www.youtube.com/embed/C77dCZUTUpo" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+  </div>
+  <div style="padding-bottom: 20px;">
+    <code>LIVE</code> match replay<br>
+  </div>
+  <div style="padding-bottom: 20px;">
+    AP Computer Science Training: <a href="https://runestone.academy/ns/books/published/HartHS_APCSA_FRC24/index.html">HartHS_Robotics_APCSA</a><br>
+  </div>
+  <div style="padding-bottom: 25px;">
+    The Blue Alliance: <a href="https://www.thebluealliance.com/team/6128">Team 6128 Stats</a><br>
+  </div>
+  <div style="padding-bottom: 20px;">
+    Robotics Poster: <a href="https://drive.google.com/file/d/1ncob92Pq0ILPDAlG7XROPMt_NxwRxsf3/view?usp=sharing">Download Poster</a><br>
+  </div>
+  <div>
+    Facility pics: <a href="https://drive.google.com/drive/folders/1x9UObfBQId2rwInRlrZxavEPQuLbMj_R?usp=sharing">MSU AgBioResearch</a><br>
+  </div>
+</div>
+
+<!--
 <div style="text-align: center; margin-bottom: 20px;">
   Official FIRST Robotics Website: <a href="https://www.firstinspires.org/robotics/frc" style="margin-bottom: 20px;">firstinspires.org</a><br>
   Login/Register for a FIRST account: <a href="https://login2.firstinspires.org/Account/Login" style="margin-bottom: 25px;">FIRST Registration</a><br>
@@ -42,7 +72,7 @@ categories: jekyll update
   Robotics Poster: <a href="https://drive.google.com/file/d/1ncob92Pq0ILPDAlG7XROPMt_NxwRxsf3/view?usp=sharing" style="margin-bottom: 20px;">Download Poster</a><br class="break-item">
   Facility pics: <a href="https://drive.google.com/drive/folders/1x9UObfBQId2rwInRlrZxavEPQuLbMj_R?usp=sharing">MSU AgBioResearch</a><br class="break-item">
 </div>
-
+-->
 <!--
 
 <div style="text-align: center; margin-bottom: 20px;">
