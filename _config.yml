@@ -36,7 +36,7 @@ plugins:
   - jekyll-feed
   - jemoji
 
-# include _assets directory to be seen by jekyll
+# include the _assets directory to be seen by jekyll
 include:
   - _assets
 
