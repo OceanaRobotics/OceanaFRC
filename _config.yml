@@ -22,8 +22,8 @@ title: Oceana Robotics Team
 email: oceana.robots@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the Oceana County Robotics blog. Tap a blog! Expand your mind. Learn to build this site and more!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nrhartfrc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/OceanaFRC" # the subpath of your site, e.g. /blog
+url: "https://oceanarobotics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hartpirateposse
 github_username:  NRHartFRC
 # instagram_username: hhspirate
