@@ -58,7 +58,7 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center;">
-  <h3 style="color: pink; font-size: 60px; margin: 0; font-weight: bold;">👇 where? 👆</h3><br>
+  <h3 style="color: pink; font-size: 60px; margin: 0; font-weight: bold;">👇where?👆</h3><br>
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
