@@ -38,7 +38,7 @@ plugins:
 
 # include _assets directory to be seen by jekyll
 include:
-  - _assets
+  - assets
 
 # Exclude from processing.
 # The following items will not be processed, by default.
