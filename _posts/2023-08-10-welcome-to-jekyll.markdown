@@ -26,7 +26,9 @@ categories: jekyll update
 <div style="text-align: center; margin-bottom: 20px;">
   Official FIRST Robotics Website: <a href="https://www.firstinspires.org/robotics/frc">firstinspires.org</a><br class="break-item">
   Login/Register for a FIRST account: <a href="https://login2.firstinspires.org/Account/Login">FIRST Registration</a><br class="break-item">
-  <iframe width="480" height="315" src="https://www.youtube.com/embed/C77dCZUTUpo" frameborder="0" allowfullscreen=""></iframe><br class="break-item">
+  <div style="max-width: 100%; overflow: hidden;">
+    <iframe src="https://www.youtube.com/embed/C77dCZUTUpo" frameborder="0" allowfullscreen style="width: 100%;"></iframe>
+  </div>
   <code>LIVE</code> match replay<br class="break-item">
   AP Computer Science Training: <a href="https://runestone.academy/ns/books/published/HartHS_APCSA_FRC24/index.html">HartHS_Robotics_APCSA</a><br class="break-item">
   The Blue Alliance: <a href="https://www.thebluealliance.com/team/6128">Team 6128 Stats</a><br class="break-item">
