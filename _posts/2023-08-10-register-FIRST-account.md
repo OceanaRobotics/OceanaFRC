@@ -10,7 +10,7 @@ categories: jekyll update
 </div>
 
 <p align="center">
-  <img src="/assets/images/6128.png" alt="6128">
+  <img src="{{ site.baseurl }}/assets/images/6128.png" alt="6128">
 </p>
 
 <!-- <img src="/../_assets/images/6128.png" alt="6128"> -->
