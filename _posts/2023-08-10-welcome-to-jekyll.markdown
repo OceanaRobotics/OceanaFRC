@@ -3,7 +3,6 @@ layout: post
 title:  "Why Join 6128?"
 date:   2023-08-10 14:37:26 -0400
 categories: jekyll update
-audio_url: /assets/audio/RR.wav
 ---
 <div style="text-align: center;">
   <h2 style="color: green;">Register a FIRST account for a chance to win a Bondhus color-coded, ball-end Allen wrench set</h2>
@@ -116,9 +115,9 @@ Please email the coaches with:
 {::nomarkdown}
 <div style="text-align: center; padding-bottom: 5px;">
   Team Theme Song<br>
-  <video controls>
-    <source src="{{ page.audio_url }}" type="audio/wav">
-  </video>
+  <audio controls>
+    <source src="/assets/audio/RR.wav" type="audio/wav">
+  </audio>
 </div>
 {:/nomarkdown}
 
