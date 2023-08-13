@@ -3,6 +3,7 @@ layout: post
 title:  "Why Join 6128?"
 date:   2023-08-10 14:37:26 -0400
 categories: jekyll update
+audio_url: "/assets/audio/RR.wav"
 ---
 <div style="text-align: center;">
   <h2 style="color: green;">Register a FIRST account for a chance to win a Bondhus color-coded, ball-end Allen wrench set</h2>
@@ -111,6 +112,15 @@ Please email the coaches with:
   <h4 style="color: orange; font-family: Arial, sans-serif; font-size: 32px; margin-bottom: 0; font-weight: bold;">Learn how to build a web-based resume!</h4><br>
   <iframe src="https://resume-template.joelglovier.com/" width="100%" height="600" frameborder="0" style="margin: 0 auto;"></iframe>
 </div>
+
+{::nomarkdown}
+<div style="text-align: center; padding-bottom: 5px;">
+  Team Theme Song<br>
+  <video controls name="media">
+    <source src="{{ page.audio_url }}" type="audio/wav">
+  </video>
+</div>
+{:/nomarkdown}
 
 <!--
 <div style="display: flex; justify-content: center;">

@@ -36,10 +36,16 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jemoji
+#  - jekyll-miniaudio
+
+# audio
+# require: jekyll-miniaudio
 
 # include assets directory to be seen by jekyll
 include:
   - assets
+  - '*.wav'
+  - '*.mp3'
 
 # add favicon to make a fun tab
 favicon: "/assets/images/robot.png"
