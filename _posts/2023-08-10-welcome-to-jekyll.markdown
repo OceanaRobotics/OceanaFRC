@@ -113,10 +113,10 @@ Please email the coaches with:
 </div>
 
 <div style="text-align: center; padding-bottom: 5px;">
-  <span style="display: block; font-size: 32px; color: #555555;">
+  <span style="display: block; font-size: 40px; color: #DDDDDD; font-weight: bold;">
     Team Anthem🎵<br>
   </span>
-  <audio controls>
+  <audio controls loop>
     <source src="{{ site.baseurl }}/assets/audio/RR.wav" type="audio/wav">
     Your browser does not support the audio element.
   </audio>
