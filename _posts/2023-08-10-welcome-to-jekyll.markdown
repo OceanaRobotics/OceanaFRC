@@ -112,14 +112,13 @@ Please email the coaches with:
   <iframe src="https://resume-template.joelglovier.com/" width="100%" height="600" frameborder="0" style="margin: 0 auto;"></iframe>
 </div>
 
-{::nomarkdown}
 <div style="text-align: center; padding-bottom: 5px;">
   Team Theme Song<br>
   <audio controls>
-    <source src="/assets/audio/RR.wav" type="audio/wav">
+    <source src="{{ site.baseurl }}/assets/audio/RR.wav" type="audio/wav">
+    Your browser does not support the audio element.
   </audio>
 </div>
-{:/nomarkdown}
 
 <!--
 <div style="display: flex; justify-content: center;">
