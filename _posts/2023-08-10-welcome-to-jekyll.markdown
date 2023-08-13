@@ -5,11 +5,17 @@ date:   2023-08-10 14:37:26 -0400
 categories: jekyll update
 ---
 <div style="text-align: center;">
-  <h2 style="color: green;">Register a FIRST account for a chance to win a Bondhus color-coded, ball-end Allen wrench set</h2>
+  <h2 style="color: green;">Register a FIRST account for a chance to <ins><b>WIN</b></ins> a Bondhus color-coded, ball-end Allen wrench set</h2>
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 5px;">
   <img src="https://3989ac5bcbe1edfc864a-0a7f10f87519dba22d2dbc6233a731e5.ssl.cf2.rackcdn.com/bondhus42/72-dpi-graphics/colorguard/69637_copy2.png" alt="BondusAllenset">
+</div>
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <span style="display: block; font-size: 13px; color: #FF9999;">
+    <em><strong><ins>F</ins>or <ins>I</ins>nspiration and <ins>R</ins>ecognition of <ins>S</ins>cience and <ins>T</ins>echnology</strong></em>
+  </span>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
@@ -62,12 +68,12 @@ categories: jekyll update
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border:6px solid black;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11530.621704532181!2d-86.37018675933841!3d43.73848451891624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x881c0784c753ce87%3A0x119a6d0133cc6700!2sMichigan%20State%20University%20AgBioResearch%20West%20Central%20Michigan%20Research%20and%20Extension%20Center!5e0!3m2!1sen!2sus!4v1691718293562!5m2!1sen!2sus" width="600" height="450" style="border: 1px black" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
   <span style="display: block; font-size: 18px;">
-    FYI <code>Coach's email</code> appears at the bottom of this page. :grimacing:
+    FYI <code>Coaches' email</code> appears at the bottom of this page. :grimacing:
   </span>
 </div>
 
@@ -92,23 +98,23 @@ categories: jekyll update
 </table>
 {:/nomarkdown}
 
-Please email the coaches with:
+Please <strong><code>email the coaches</code></strong> with:
 <ol>
   <li>one thing you are <mark>excited</mark> about</li>
   <li>one thing your are nervous about</li>
   <li>one thing you want to <em>learn</em></li>
   <li>at least one <span style="text-decoration: underline;">question</span> you have</li>
 </ol>
-<div style="display: flex; justify-content: center; margin-bottom: 50px;">
+<div style="display: flex; justify-content: center; margin-bottom: 25px;">
   <img src="https://www.chiefdelphi.com/uploads/default/original/3X/2/c/2c8ea0c8df7a9f0cd14aa04289ad8b23d94a3e06.gif" alt="Auton">
 </div>
 
-<div style="display: flex; justify-content: center; margin-bottom: 50px;">
+<div style="display: flex; justify-content: center; margin-bottom: 25px;">
   <img src="https://seekvectorlogo.net/wp-content/uploads/2019/03/first-robotics-competition-vector-logo.png" alt="FIRST">
 </div>
 
-<div style="text-align: center;">
-  <h4 style="color: orange; font-family: Arial, sans-serif; font-size: 32px; margin-bottom: 0; font-weight: bold;">Learn how to build a web-based resume!</h4><br>
+<div style="text-align: center; margin-bottom: 5px">
+  <h4 style="color: orange; font-family: Arial, sans-serif; font-size: 40px; margin-bottom: 0; font-weight: bold;">Learn how to build a web-based resume!</h4><br>
   <iframe src="https://resume-template.joelglovier.com/" width="100%" height="600" frameborder="0" style="margin: 0 auto;"></iframe>
 </div>
 
