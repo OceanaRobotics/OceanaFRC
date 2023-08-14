@@ -107,7 +107,7 @@ categories: jekyll update
   <img src="https://seekvectorlogo.net/wp-content/uploads/2019/03/first-robotics-competition-vector-logo.png" alt="FIRST">
 </div>
 
-<p style="color: orange; font-family: Arial, sans-serif; font-size: 24px; margin: 0; font-weight: bold;">
+<p style="color: orange; font-family: Arial, sans-serif; font-size: 30px; margin: 0; font-weight: bold;">
   We can teach you how to:</p>
   <ul style="list-style-type: disc; text-align: left;">
     <li style="color:red; font-size: 20px;"><span style="color:black;">build a personal website</span></li>
@@ -117,7 +117,7 @@ categories: jekyll update
     <li style="color:green; font-size: 20px;"><span style="color:black;">create a scholarship page</span></li>
     <li style="color:purple; font-size: 20px;"><span style="color:black;">launch a 'sponsor-me' page</span></li>
     <li style="color:green; font-size: 20px;"><span style="color:black;">build 3D CAD models</span></li>
-    <li style="color:blue; font-size: 20px;"><span style="color:black;">program/code wit JAVA</span></li>
+    <li style="color:blue; font-size: 20px;"><span style="color:black;">program / code using JAVA</span></li>
     <li style="color:gray; font-size: 20px;"><span style="color:black;">use a 3D printer</span></li>
     <li style="color:red; font-size: 20px;"><span style="color:black;">fabricate and use tools</span></li>
   </ul><br>
