@@ -41,7 +41,7 @@ categories: jekyll update
     <code>LIVE</code> match replay 🤯<br>
   </div>
   <div style="padding-bottom: 20px;">
-    AP Computer Science Training: <a href="https://runestone.academy/ns/books/published/HartHS_APCSA_FRC24/index.html" target="_blank">Oceana_Robotics_APCSA</a><br>
+    AP Computer Science Training: <a href="https://runestone.academy/ns/books/published/Oceana_APCSA_FRC24/index.html" target="_blank">Oceana_APCSA_FRC24</a><br>
   </div>
   <div style="padding-bottom: 20px;">
     The Blue Alliance: <a href="https://www.thebluealliance.com/team/6128" target="_blank">Team 6128 Stats</a><br>
