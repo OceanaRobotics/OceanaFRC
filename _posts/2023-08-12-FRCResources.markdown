@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "FRC Resources 📚"
+title:  "FRC Resources📚"
 date:   2023-08-12 14:37:26 -0400
-author: N. Rombach
+author: Nicholas Rombach
 categories: jekyll update
 ---
 

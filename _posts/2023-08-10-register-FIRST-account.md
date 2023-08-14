@@ -2,7 +2,7 @@
 layout: post
 title:  "Registration Portal🌀"
 date:   2023-08-11 14:37:36 -0400
-author: N. Rombach
+author: Nicholas Rombach
 categories: jekyll update
 ---
 <div align="center">
