@@ -101,8 +101,8 @@ categories: jekyll update
   </div>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: left; font-size: 14px; padding: 0 20px;">
+<div style="width: 100%; margin: 0; display: flex; justify-content: center;">
+  <div style="text-align: left; font-size: 16px;">
     Please <b><code>email coaches</code></b> with:
     <ol>
       <li>one thing you are <mark>excited</mark> about</li>
@@ -161,11 +161,11 @@ categories: jekyll update
   </div>
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: center; max-width: 600px; padding: 0 20px;">
+<div style="display: flex; justify-content: center; width: 100%">
+  <div style="text-align: center; max-width: 720px; padding: 0 20px;">
     <p style="color: orange; font-family: Arial, sans-serif; font-size: 17px; margin: 0; font-weight: bold;">
       We can teach you how to:</p>
-    <ul style="list-style-type: disc; padding-left: 20px; text-align: left;">
+    <ul style="list-style-type: disc; text-align: left;">
       <li style="color:red; font-size: 14px;"><span style="color:black;">build a personal website</span></li>
       <li style="color:gray; font-size: 14px;"><span style="color:black;">make online resumé</span></li>
       <li style="color:blue; font-size: 14px;"><span style="color:black;">use electronic sensors</span></li>
