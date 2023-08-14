@@ -6,7 +6,7 @@ author: N. Rombach
 categories: jekyll update
 ---
 
-<div style="text-align: center; font-size: 12px">
+<div style="text-align: center; font-size: 14px">
     <p>🤖🎉 Introducing <strong>FRC Resources</strong>! 🎓🔧</p>
     <p>Your one-stop hub for CAD wizardry, team wisdom, programming magic, docs galore, and supplier gems. 🌟🛠️</p>
     <p>Ready to dive in? Click <a href="https://docs.google.com/document/d/15C8zG_amuXUMIT9prsG9tARXWJR4kUQTv-c_sbQoC2g/edit?usp=sharing" target="_blank"><strong>here</strong></a> and let the learning quest begin! 🚀🔗</p>

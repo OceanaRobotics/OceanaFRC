@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Join 6128? 🤨"
+title:  "Why Join 6128?🤨"
 date:   2023-08-10 14:37:26 -0400
 author: N. Rombach
 categories: jekyll update
@@ -107,19 +107,19 @@ categories: jekyll update
   <img src="https://seekvectorlogo.net/wp-content/uploads/2019/03/first-robotics-competition-vector-logo.png" alt="FIRST">
 </div>
 
-<p style="color: orange; font-family: Arial, sans-serif; font-size: 19px; margin: 0; font-weight: bold;">
+<p style="color: orange; font-family: Arial, sans-serif; font-size: 20px; margin: 0; font-weight: bold;">
   We can teach you how to:</p>
   <ul style="list-style-type: disc; text-align: left;">
-    <li style="color:red; font-size: 18px;"><span style="color:black;">build a personal website</span></li>
-    <li style="color:gray; font-size: 18px;"><span style="color:black;">make online resumé</span></li>
-    <li style="color:blue; font-size: 18px;"><span style="color:black;">use electronic sensors</span></li>
-    <li style="color:orange; font-size: 18px;"><span style="color:black;">try digital advertising</span></li>
-    <li style="color:green; font-size: 18px;"><span style="color:black;">create a scholarship page</span></li>
-    <li style="color:purple; font-size: 18px;"><span style="color:black;">launch 'sponsor-me' page</span></li>
-    <li style="color:green; font-size: 18px;"><span style="color:black;">build 3D CAD models</span></li>
-    <li style="color:blue; font-size: 18px;"><span style="color:black;">program/code w/ JAVA</span></li>
-    <li style="color:gray; font-size: 18px;"><span style="color:black;">use a 3D printer</span></li>
-    <li style="color:red; font-size: 18px;"><span style="color:black;">fabricate and use tools</span></li>
+    <li style="color:red; font-size: 19px;"><span style="color:black;">build a personal website</span></li>
+    <li style="color:gray; font-size: 19px;"><span style="color:black;">make online resumé</span></li>
+    <li style="color:blue; font-size: 19px;"><span style="color:black;">use electronic sensors</span></li>
+    <li style="color:orange; font-size: 19px;"><span style="color:black;">try digital advertising</span></li>
+    <li style="color:green; font-size: 19px;"><span style="color:black;">create a scholarship page</span></li>
+    <li style="color:purple; font-size: 19px;"><span style="color:black;">launch 'sponsor-me' page</span></li>
+    <li style="color:green; font-size: 19px;"><span style="color:black;">build 3D CAD models</span></li>
+    <li style="color:blue; font-size: 19px;"><span style="color:black;">program/code w/ JAVA</span></li>
+    <li style="color:gray; font-size: 19px;"><span style="color:black;">use a 3D printer</span></li>
+    <li style="color:red; font-size: 19px;"><span style="color:black;">fabricate and use tools</span></li>
   </ul><br>
 
 <div style="text-align: center; padding-bottom: 0;">
