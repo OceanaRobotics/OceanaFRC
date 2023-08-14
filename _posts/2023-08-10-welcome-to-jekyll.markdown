@@ -8,7 +8,7 @@ categories: jekyll update
   <h2 style="color: green;">Register a FIRST account for a chance to <ins><b>WIN</b></ins> a Bondhus color-coded, ball-end Allen wrench set</h2>
 </div>
 
-<div style="text-align: center; margin-bottom: 5px;">
+<div style="text-align: center;">
   <img src="https://3989ac5bcbe1edfc864a-0a7f10f87519dba22d2dbc6233a731e5.ssl.cf2.rackcdn.com/bondhus42/72-dpi-graphics/colorguard/69637_copy2.png" alt="BondusAllenset">
 </div>
 
@@ -18,8 +18,8 @@ categories: jekyll update
   </span>
 </div>
 
-<div style="text-align: center; margin-bottom: 18px;">
-  <span style="display: block; font-size: 13px; color: #FF9999;">
+<div style="text-align: center; margin-bottom: 20px;">
+  <span style="display: block; font-size: 9px; color: #FF9999;">
     <em><strong><ins>F</ins>or <ins>I</ins>nspiration and <ins>R</ins>ecognition of <ins>S</ins>cience and <ins>T</ins>echnology</strong></em>
   </span>
 </div>
@@ -90,7 +90,7 @@ categories: jekyll update
 {:/nomarkdown}
 
 <div style="display: flex; justify-content: center;">
-  <div style="text-align: left; max-width: 600px;">
+  <div style="text-align: left; max-width: 900px;">
     <p>
       Please <strong><code>email the coaches</code></strong> with:
     </p>
@@ -114,31 +114,24 @@ categories: jekyll update
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: left; max-width: 600px;">
-    <p style="color: orange; font-family: Arial, sans-serif; font-size: 30px; margin: 0; font-weight: bold;">
+    <p style="color: orange; font-family: Arial, sans-serif; font-size: 24px; margin: 0; font-weight: bold;">
       We can teach you how to:</p>
     <ul>
-      <li style="color:red"><span style="color:black; font-size: 24px">build a personal website</span></li>
-      <li style="color:gray"><span style="color:black; font-size: 24px">make a web-based resumé</span></li>
-      <li style="color:blue"><span style="color:black; font-size: 24px">use electronic sensors</span></li>
-      <li style="color:orange"><span style="color:black; font-size: 24px">try digital advertising</span></li>
-      <li style="color:green"><span style="color:black; font-size: 24px">create a scholarship website</span></li>
-      <li style="color:purple"><span style="color:black; font-size: 24px">launch a 'sponsor-me' website</span></li>
-      <li style="color:green"><span style="color:black; font-size: 24px">build 3D CAD models</span></li>
-      <li style="color:blue"><span style="color:black; font-size: 24px">program/code using JAVA</span></li>
-      <li style="color:gray"><span style="color:black; font-size: 24px">use a 3D printer</span></li>
-      <li style="color:red"><span style="color:black; font-size: 24px">fabricate and use tools... etc</span></li>
+      <li style="color:red"><span style="color:black; font-size: 20px">build a personal website</span></li>
+      <li style="color:gray"><span style="color:black; font-size: 20px">make online resumé</span></li>
+      <li style="color:blue"><span style="color:black; font-size: 20px">use electronic sensors</span></li>
+      <li style="color:orange"><span style="color:black; font-size: 20px">try digital advertising</span></li>
+      <li style="color:green"><span style="color:black; font-size: 20px">create a scholarship page</span></li>
+      <li style="color:purple"><span style="color:black; font-size: 20px">launch 'sponsor-me' page</span></li>
+      <li style="color:green"><span style="color:black; font-size: 20px">build 3D CAD models</span></li>
+      <li style="color:blue"><span style="color:black; font-size: 20px">program/code w/ JAVA</span></li>
+      <li style="color:gray"><span style="color:black; font-size: 20px">use a 3D printer</span></li>
+      <li style="color:red"><span style="color:black; font-size: 20px">fabricate and use tools</span></li>
     </ul><br>
   </div>
 </div>
 
-
-<div style="text-align: center; margin-bottom: 5px">
-  <h4 style="color: orange; font-family: Arial, sans-serif; font-size: 40px; margin-bottom: 0; font-weight: bold;">Hold left or right side of screen to avoid objects</h4><br>
-  <iframe src="http://www.freeonlinegames.com/embed/154671" width="720" height="1280" frameborder="no" scrolling="no"></iframe>
-</div>
-
-
-<div style="text-align: center; padding-bottom: 5px;">
+<div style="text-align: center; padding-bottom: 0;">
   <span style="display: block; font-size: 40px; color: #DDDDDD; font-weight: bold;">
     Team Anthem🎵<br>
   </span>
