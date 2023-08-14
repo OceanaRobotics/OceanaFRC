@@ -101,6 +101,18 @@ categories: jekyll update
   </div>
 </div>
 
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: left; font-size: 14px; padding: 0 20px;">
+    Please <b><code>email coaches</code></b> with:
+    <ol>
+      <li>one thing you are <mark>excited</mark> about</li>
+      <li>one thing you are nervous about</li>
+      <li>one thing you want to <em>learn</em></li>
+      <li>at least one <span style="text-decoration: underline;">question</span></li>
+    </ol>
+  </div>
+</div>
+
 <div style="display: flex; justify-content: center; margin-bottom: 25px;">
   <img src="https://www.chiefdelphi.com/uploads/default/original/3X/2/c/2c8ea0c8df7a9f0cd14aa04289ad8b23d94a3e06.gif" alt="Auton">
 </div>
@@ -148,6 +160,27 @@ categories: jekyll update
     </ul><br>
   </div>
 </div>
+
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: center; max-width: 600px; padding: 0 20px;">
+    <p style="color: orange; font-family: Arial, sans-serif; font-size: 17px; margin: 0; font-weight: bold;">
+      We can teach you how to:</p>
+    <ul style="list-style-type: disc; padding-left: 20px; text-align: left;">
+      <li style="color:red; font-size: 14px;"><span style="color:black;">build a personal website</span></li>
+      <li style="color:gray; font-size: 14px;"><span style="color:black;">make online resumé</span></li>
+      <li style="color:blue; font-size: 14px;"><span style="color:black;">use electronic sensors</span></li>
+      <li style="color:orange; font-size: 14px;"><span style="color:black;">try digital advertising</span></li>
+      <li style="color:green; font-size: 14px;"><span style="color:black;">create a scholarship page</span></li>
+      <li style="color:purple; font-size: 14px;"><span style="color:black;">launch 'sponsor-me' page</span></li>
+      <li style="color:green; font-size: 14px;"><span style="color:black;">build 3D CAD models</span></li>
+      <li style="color:blue; font-size: 14px;"><span style="color:black;">program/code w/ JAVA</span></li>
+      <li style="color:gray; font-size: 14px;"><span style="color:black;">use a 3D printer</span></li>
+      <li style="color:red; font-size: 14px;"><span style="color:black;">fabricate and use tools</span></li>
+    </ul><br>
+  </div>
+</div>
+
+
 
 <div style="text-align: center; padding-bottom: 0;">
   <span style="display: block; font-size: 40px; color: #DDDDDD; font-weight: bold;">
