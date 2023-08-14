@@ -89,8 +89,8 @@ categories: jekyll update
 </table>
 {:/nomarkdown}
 
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: left; max-width: 1000px;">
+<div style="display: flex; justify-content: center; width: 100%;">
+  <div style="text-align: left;">
     <p>
       Please <strong><code>email the coaches</code></strong> with:
     </p>
@@ -112,8 +112,8 @@ categories: jekyll update
 </div>
 
 
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: left; max-width: 600px;">
+<div style="display: flex; justify-content: center; width: 100%;">
+  <div style="text-align: left;">
     <p style="color: orange; font-family: Arial, sans-serif; font-size: 20px; margin: 0; font-weight: bold;">
       We can teach you how to:</p>
     <ul>
