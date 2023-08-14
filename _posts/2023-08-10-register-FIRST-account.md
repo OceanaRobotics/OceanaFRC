@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Registration Portal 🌀"
+title:  "Registration Portal🌀"
 date:   2023-08-11 14:37:36 -0400
 author: N. Rombach
 categories: jekyll update
