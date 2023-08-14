@@ -89,28 +89,14 @@ categories: jekyll update
 </table>
 {:/nomarkdown}
 
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: left; font-size: 16px;">
-    Please <b><code>email coaches</code></b> with:
-    <ol>
-      <li>one thing you are <mark>excited</mark> about</li>
-      <li>one thing you are nervous about</li>
-      <li>one thing you want to <em>learn</em></li>
-      <li>at least one <span style="text-decoration: underline;">question</span></li>
-    </ol>
-  </div>
-</div>
-
-<div style="width: 100%; margin: 0; display: flex; justify-content: center;">
-  <div style="text-align: left; font-size: 16px;">
-    Please <b><code>email coaches</code></b> with:
-    <ol>
-      <li>one thing you are <mark>excited</mark> about</li>
-      <li>one thing you are nervous about</li>
-      <li>one thing you want to <em>learn</em></li>
-      <li>at least one <span style="text-decoration: underline;">question</span></li>
-    </ol>
-  </div>
+<div style="text-align: left; font-size: 18px;">
+  Please <b><code>email coaches</code></b> with:
+  <ol>
+    <li>one thing you are <mark>excited</mark> about</li>
+    <li>one thing you are nervous about</li>
+    <li>one thing you want to <em>learn</em></li>
+    <li>at least one <span style="text-decoration: underline;">question</span></li>
+  </ol>
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 25px;">
@@ -142,45 +128,19 @@ categories: jekyll update
 </div>
 -->
 
-<div style="display: flex; justify-content: center">
-  <div>
-    <p style="color: orange; font-family: Arial, sans-serif; font-size: 18px; margin: 0; font-weight: bold;">
-      We can teach you how to:</p>
-    <ul>
-      <li style="color:red"><span style="color:black; font-size: 16px">build a personal website</span></li>
-      <li style="color:gray"><span style="color:black; font-size: 16px">make online resumé</span></li>
-      <li style="color:blue"><span style="color:black; font-size: 16px">use electronic sensors</span></li>
-      <li style="color:orange"><span style="color:black; font-size: 16px">try digital advertising</span></li>
-      <li style="color:green"><span style="color:black; font-size: 16px">create a scholarship page</span></li>
-      <li style="color:purple"><span style="color:black; font-size: 16px">launch 'sponsor-me' page</span></li>
-      <li style="color:green"><span style="color:black; font-size: 16px">build 3D CAD models</span></li>
-      <li style="color:blue"><span style="color:black; font-size: 16px">program/code w/ JAVA</span></li>
-      <li style="color:gray"><span style="color:black; font-size: 16px">use a 3D printer</span></li>
-      <li style="color:red"><span style="color:black; font-size: 16px">fabricate and use tools</span></li>
-    </ul><br>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: center; width: 100%">
-  <div style="text-align: center; max-width: 720px; padding: 0 20px;">
-    <p style="color: orange; font-family: Arial, sans-serif; font-size: 17px; margin: 0; font-weight: bold;">
-      We can teach you how to:</p>
-    <ul style="list-style-type: disc; text-align: left;">
-      <li style="color:red; font-size: 14px;"><span style="color:black;">build a personal website</span></li>
-      <li style="color:gray; font-size: 14px;"><span style="color:black;">make online resumé</span></li>
-      <li style="color:blue; font-size: 14px;"><span style="color:black;">use electronic sensors</span></li>
-      <li style="color:orange; font-size: 14px;"><span style="color:black;">try digital advertising</span></li>
-      <li style="color:green; font-size: 14px;"><span style="color:black;">create a scholarship page</span></li>
-      <li style="color:purple; font-size: 14px;"><span style="color:black;">launch 'sponsor-me' page</span></li>
-      <li style="color:green; font-size: 14px;"><span style="color:black;">build 3D CAD models</span></li>
-      <li style="color:blue; font-size: 14px;"><span style="color:black;">program/code w/ JAVA</span></li>
-      <li style="color:gray; font-size: 14px;"><span style="color:black;">use a 3D printer</span></li>
-      <li style="color:red; font-size: 14px;"><span style="color:black;">fabricate and use tools</span></li>
-    </ul><br>
-  </div>
-</div>
-
-
+<p style="color: orange; font-family: Arial, sans-serif; font-size: 18px; margin: 0; font-weight: bold;">We can teach you how to:</p>
+  <ul style="list-style-type: disc; text-align: left;">
+    <li style="color:red; font-size: 16px;"><span style="color:black;">build a personal website</span></li>
+    <li style="color:gray; font-size: 16px;"><span style="color:black;">make online resumé</span></li>
+    <li style="color:blue; font-size: 16px;"><span style="color:black;">use electronic sensors</span></li>
+    <li style="color:orange; font-size: 16px;"><span style="color:black;">try digital advertising</span></li>
+    <li style="color:green; font-size: 16px;"><span style="color:black;">create a scholarship page</span></li>
+    <li style="color:purple; font-size: 16px;"><span style="color:black;">launch 'sponsor-me' page</span></li>
+    <li style="color:green; font-size: 16px;"><span style="color:black;">build 3D CAD models</span></li>
+    <li style="color:blue; font-size: 16px;"><span style="color:black;">program/code w/ JAVA</span></li>
+    <li style="color:gray; font-size: 16px;"><span style="color:black;">use a 3D printer</span></li>
+    <li style="color:red; font-size: 16px;"><span style="color:black;">fabricate and use tools</span></li>
+  </ul><br>
 
 <div style="text-align: center; padding-bottom: 0;">
   <span style="display: block; font-size: 40px; color: #DDDDDD; font-weight: bold;">
