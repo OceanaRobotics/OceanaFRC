@@ -89,8 +89,8 @@ categories: jekyll update
 </table>
 {:/nomarkdown}
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <div style="text-align: left; font-size: 20px;">
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: left; font-size: 16px;">
     Please <b><code>email coaches</code></b> with:
     <ol>
       <li>one thing you are <mark>excited</mark> about</li>
@@ -130,21 +130,21 @@ categories: jekyll update
 </div>
 -->
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center">
   <div>
-    <p style="color: orange; font-family: Arial, sans-serif; font-size: 20px; margin: 0; font-weight: bold;">
+    <p style="color: orange; font-family: Arial, sans-serif; font-size: 18px; margin: 0; font-weight: bold;">
       We can teach you how to:</p>
     <ul>
-      <li style="color:red"><span style="color:black; font-size: 18px">build a personal website</span></li>
-      <li style="color:gray"><span style="color:black; font-size: 18px">make online resumé</span></li>
-      <li style="color:blue"><span style="color:black; font-size: 18px">use electronic sensors</span></li>
-      <li style="color:orange"><span style="color:black; font-size: 18px">try digital advertising</span></li>
-      <li style="color:green"><span style="color:black; font-size: 18px">create a scholarship page</span></li>
-      <li style="color:purple"><span style="color:black; font-size: 18px">launch 'sponsor-me' page</span></li>
-      <li style="color:green"><span style="color:black; font-size: 18px">build 3D CAD models</span></li>
-      <li style="color:blue"><span style="color:black; font-size: 18px">program/code w/ JAVA</span></li>
-      <li style="color:gray"><span style="color:black; font-size: 18px">use a 3D printer</span></li>
-      <li style="color:red"><span style="color:black; font-size: 18px">fabricate and use tools</span></li>
+      <li style="color:red"><span style="color:black; font-size: 16px">build a personal website</span></li>
+      <li style="color:gray"><span style="color:black; font-size: 16px">make online resumé</span></li>
+      <li style="color:blue"><span style="color:black; font-size: 16px">use electronic sensors</span></li>
+      <li style="color:orange"><span style="color:black; font-size: 16px">try digital advertising</span></li>
+      <li style="color:green"><span style="color:black; font-size: 16px">create a scholarship page</span></li>
+      <li style="color:purple"><span style="color:black; font-size: 16px">launch 'sponsor-me' page</span></li>
+      <li style="color:green"><span style="color:black; font-size: 16px">build 3D CAD models</span></li>
+      <li style="color:blue"><span style="color:black; font-size: 16px">program/code w/ JAVA</span></li>
+      <li style="color:gray"><span style="color:black; font-size: 16px">use a 3D printer</span></li>
+      <li style="color:red"><span style="color:black; font-size: 16px">fabricate and use tools</span></li>
     </ul><br>
   </div>
 </div>
