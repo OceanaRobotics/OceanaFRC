@@ -64,7 +64,7 @@ categories: jekyll update
 
 <div style="text-align: center; margin-bottom: 20px;">
   <span style="display: block; font-size: 18px;">
-    FYI <code>Coaches' email</code> appears at the bottom of this page. :grimacing:
+    FYI <b><code>Coaches' email</code></b> appears at the bottom of this page. :grimacing:
   </span>
 </div>
 
@@ -89,11 +89,21 @@ categories: jekyll update
 </table>
 {:/nomarkdown}
 
+<div style="display: flex; width: 100%;">
+  <div style="text-align: left; font-size: 14px;">
+      Please <b><code>email coaches</code></b> with:
+    <ol>
+      <li>one thing you are <mark>excited</mark> about</li>
+      <li>one thing you are nervous about</li>
+      <li>one thing you want to <em>learn</em></li>
+      <li>at least one <span style="text-decoration: underline;">question</span></li>
+    </ol>
+  </div>
+</div>
+
 <div style="display: flex; justify-content: center; width: 100%;">
-  <div style="text-align: left;">
-    <p>
-      Please <strong><code>email the coaches</code></strong> with:
-    </p>
+  <div style="text-align: left; font-size: 14px;">
+  Please <b><code>email coaches</code></b> with:
     <ol>
       <li>one thing you are <mark>excited</mark> about</li>
       <li>one thing you are nervous about</li>
@@ -111,9 +121,29 @@ categories: jekyll update
   <img src="https://seekvectorlogo.net/wp-content/uploads/2019/03/first-robotics-competition-vector-logo.png" alt="FIRST">
 </div>
 
+<!--
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: left; width: 100%;">
+    <p style="color: orange; font-family: Arial, sans-serif; font-size: 20px; margin: 0; font-weight: bold;">
+      We can teach you how to:</p>
+    <ul>
+      <li style="color:red"><span style="color:black; font-size: 18px">build a personal website</span></li>
+      <li style="color:gray"><span style="color:black; font-size: 18px">make online resumé</span></li>
+      <li style="color:blue"><span style="color:black; font-size: 18px">use electronic sensors</span></li>
+      <li style="color:orange"><span style="color:black; font-size: 18px">try digital advertising</span></li>
+      <li style="color:green"><span style="color:black; font-size: 18px">create a scholarship page</span></li>
+      <li style="color:purple"><span style="color:black; font-size: 18px">launch 'sponsor-me' page</span></li>
+      <li style="color:green"><span style="color:black; font-size: 18px">build 3D CAD models</span></li>
+      <li style="color:blue"><span style="color:black; font-size: 18px">program/code w/ JAVA</span></li>
+      <li style="color:gray"><span style="color:black; font-size: 18px">use a 3D printer</span></li>
+      <li style="color:red"><span style="color:black; font-size: 18px">fabricate and use tools</span></li>
+    </ul><br>
+  </div>
+</div>
+-->
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <div style="text-align: left;">
+<div style="display: flex; justify-content: center;">
+  <div>
     <p style="color: orange; font-family: Arial, sans-serif; font-size: 20px; margin: 0; font-weight: bold;">
       We can teach you how to:</p>
     <ul>
