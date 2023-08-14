@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Registration Portal"
-date:   2023-08-10 14:37:36 -0400
+title:  "Registration Portal 🌀"
+date:   2023-08-11 14:37:36 -0400
+author: N. Rombach
 categories: jekyll update
 ---
 <div align="center">
@@ -15,7 +16,7 @@ categories: jekyll update
 
 <!-- <img src="/../_assets/images/6128.png" alt="6128"> -->
 <div align="center">
-  <h1>Parent / Guardian / Student: <a href="https://www.firstinspires.org/resource-library/youth-registration-system">Youth Registration Forms</a></h1>
+  <h1>Parent / Guardian / Student: <a href="https://www.firstinspires.org/resource-library/youth-registration-system" target="_blank">Youth Registration Forms</a></h1>
 </div>
 
 <!-- [FIRSTregforms]: https://www.firstinspires.org/resource-library/youth-registration-system -->
