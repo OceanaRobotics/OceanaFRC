@@ -6,7 +6,7 @@ author: Nicholas Rombach
 categories: jekyll update
 ---
 <div style="text-align: center;">
-  <h2 style="color: green;">Register a FIRST account for a chance to <ins><b>WIN</b></ins> a Bondhus color-coded, ball-end Allen wrench set</h2>
+  <h2 style="color: green;">Register a FIRST account for your chance to <ins><b>WIN</b></ins> a Bondhus color-coded, ball-end Allen wrench set</h2>
 </div>
 
 <div style="text-align: center;">
@@ -47,7 +47,7 @@ categories: jekyll update
     The Blue Alliance: <a href="https://www.thebluealliance.com/team/6128" target="_blank">Team 6128 Stats</a><br>
   </div>
   <div style="padding-bottom: 20px;">
-    Robotics Poster: <a href="https://drive.google.com/file/d/1ncob92Pq0ILPDAlG7XROPMt_NxwRxsf3/view?usp=sharing" target="_blank">Download Poster</a><br>
+    Robotics Poster: <a href="https://drive.google.com/file/d/1eW8WtrfVCFPeHC75RMmtMjNB-E0A-d4_/view?usp=sharing" target="_blank">Download Poster</a><br>
   </div>
   <div style="padding-bottom: 20px;">
     Facility pics: <a href="https://drive.google.com/drive/folders/1x9UObfBQId2rwInRlrZxavEPQuLbMj_R?usp=sharing" target="_blank">MSU AgBioResearch</a><br>
