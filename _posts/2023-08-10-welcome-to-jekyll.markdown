@@ -89,21 +89,9 @@ categories: jekyll update
 </table>
 {:/nomarkdown}
 
-<div style="display: flex; width: 100%;">
-  <div style="text-align: left; font-size: 14px;">
-      Please <b><code>email coaches</code></b> with:
-    <ol>
-      <li>one thing you are <mark>excited</mark> about</li>
-      <li>one thing you are nervous about</li>
-      <li>one thing you want to <em>learn</em></li>
-      <li>at least one <span style="text-decoration: underline;">question</span></li>
-    </ol>
-  </div>
-</div>
-
 <div style="display: flex; justify-content: center; width: 100%;">
-  <div style="text-align: left; font-size: 14px;">
-  Please <b><code>email coaches</code></b> with:
+  <div style="text-align: left; font-size: 20px;">
+    Please <b><code>email coaches</code></b> with:
     <ol>
       <li>one thing you are <mark>excited</mark> about</li>
       <li>one thing you are nervous about</li>
