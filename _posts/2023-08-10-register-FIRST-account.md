@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <div align="center">
   <h1 style="font-size: 36px;">Welcome to the registration page</h1>
-  <h2 style="font-size: 24px;">We recommend <strong>parent/guardian register first</strong>, then students.</h2>
+  <h2 style="font-size: 24px;"><em>We recommend <strong>parent/guardian register first</strong>, then students.</em></h2>
 </div>
 
 <p align="center">

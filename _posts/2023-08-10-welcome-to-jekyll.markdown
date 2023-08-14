@@ -13,33 +13,24 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <span style="display: block; font-size: 13px; color: #FF9999;">
-    <em><strong><ins>F</ins>or <ins>I</ins>nspiration and <ins>R</ins>ecognition of <ins>S</ins>cience and <ins>T</ins>echnology</strong></em>
-  </span>
-</div>
-
-<div style="text-align: center; margin-bottom: 20px;">
   <span style="display: block; font-size: 40px; color: #008080;">
     Welcome new & returning team members!
   </span>
 </div>
 
-<!--
-<head>
-  <style>
-    .break-item {
-      margin: 20px 0 !important;
-    }
-  </style>
-</head>
--->
+<div style="text-align: center; margin-bottom: 18px;">
+  <span style="display: block; font-size: 13px; color: #FF9999;">
+    <em><strong><ins>F</ins>or <ins>I</ins>nspiration and <ins>R</ins>ecognition of <ins>S</ins>cience and <ins>T</ins>echnology</strong></em>
+  </span>
+</div>
+
 
 <div style="text-align: center;">
   <div style="padding-bottom: 20px;">
     Official FIRST Robotics Website: <a href="https://www.firstinspires.org/robotics/frc">firstinspires.org</a><br>
   </div>
   <div style="padding-bottom: 25px;">
-    Login/Register for a FIRST account: <a href="https://login2.firstinspires.org/Account/Login">FIRST Registration</a><br>
+    Register/Login FIRST account: <a href="https://login2.firstinspires.org/Account/Login">FIRST Registration</a><br>
   </div>
   <div style="display: flex; justify-content: center;">
     <div style="max-width: 100%; width: 100%; position: relative; padding-bottom: 56.25%;">
@@ -50,7 +41,7 @@ categories: jekyll update
     <code>LIVE</code> match replay<br>
   </div>
   <div style="padding-bottom: 20px;">
-    AP Computer Science Training: <a href="https://runestone.academy/ns/books/published/HartHS_APCSA_FRC24/index.html">HartHS_Robotics_APCSA</a><br>
+    AP Computer Science Training: <a href="https://runestone.academy/ns/books/published/HartHS_APCSA_FRC24/index.html">Oceana_Robotics_APCSA</a><br>
   </div>
   <div style="padding-bottom: 20px;">
     The Blue Alliance: <a href="https://www.thebluealliance.com/team/6128">Team 6128 Stats</a><br>
@@ -98,13 +89,20 @@ categories: jekyll update
 </table>
 {:/nomarkdown}
 
-Please <strong><code>email the coaches</code></strong> with:
-<ol>
-  <li>one thing you are <mark>excited</mark> about</li>
-  <li>one thing your are nervous about</li>
-  <li>one thing you want to <em>learn</em></li>
-  <li>at least one <span style="text-decoration: underline;">question</span> you have</li>
-</ol>
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: left; max-width: 600px;">
+    <p>
+      Please <strong><code>email the coaches</code></strong> with:
+    </p>
+    <ol>
+      <li>one thing you are <mark>excited</mark> about</li>
+      <li>one thing you are nervous about</li>
+      <li>one thing you want to <em>learn</em></li>
+      <li>at least one <span style="text-decoration: underline;">question</span></li>
+    </ol>
+  </div>
+</div>
+
 <div style="display: flex; justify-content: center; margin-bottom: 25px;">
   <img src="https://www.chiefdelphi.com/uploads/default/original/3X/2/c/2c8ea0c8df7a9f0cd14aa04289ad8b23d94a3e06.gif" alt="Auton">
 </div>
@@ -113,10 +111,32 @@ Please <strong><code>email the coaches</code></strong> with:
   <img src="https://seekvectorlogo.net/wp-content/uploads/2019/03/first-robotics-competition-vector-logo.png" alt="FIRST">
 </div>
 
-<div style="text-align: center; margin-bottom: 5px">
-  <h4 style="color: orange; font-family: Arial, sans-serif; font-size: 40px; margin-bottom: 0; font-weight: bold;">Learn how to build a web-based resume!</h4><br>
-  <iframe src="https://resume-template.joelglovier.com/" width="100%" height="600" frameborder="0" style="margin: 0 auto;"></iframe>
+
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: left; max-width: 600px;">
+    <p style="color: orange; font-family: Arial, sans-serif; font-size: 30px; margin: 0; font-weight: bold;">
+      We can teach you how to:</p>
+    <ul>
+      <li style="color:red"><span style="color:black; font-size: 24px">build a personal website</span></li>
+      <li style="color:gray"><span style="color:black; font-size: 24px">make a web-based resumé</span></li>
+      <li style="color:blue"><span style="color:black; font-size: 24px">use electronic sensors</span></li>
+      <li style="color:orange"><span style="color:black; font-size: 24px">try digital advertising</span></li>
+      <li style="color:green"><span style="color:black; font-size: 24px">create a scholarship website</span></li>
+      <li style="color:purple"><span style="color:black; font-size: 24px">launch a 'sponsor-me' website</span></li>
+      <li style="color:green"><span style="color:black; font-size: 24px">build 3D CAD models</span></li>
+      <li style="color:blue"><span style="color:black; font-size: 24px">program/code using JAVA</span></li>
+      <li style="color:gray"><span style="color:black; font-size: 24px">use a 3D printer</span></li>
+      <li style="color:red"><span style="color:black; font-size: 24px">fabricate and use tools... etc</span></li>
+    </ul><br>
+  </div>
 </div>
+
+
+<div style="text-align: center; margin-bottom: 5px">
+  <h4 style="color: orange; font-family: Arial, sans-serif; font-size: 40px; margin-bottom: 0; font-weight: bold;">Hold left or right side of screen to avoid objects</h4><br>
+  <iframe src="http://www.freeonlinegames.com/embed/154671" width="720" height="1280" frameborder="no" scrolling="no"></iframe>
+</div>
+
 
 <div style="text-align: center; padding-bottom: 5px;">
   <span style="display: block; font-size: 40px; color: #DDDDDD; font-weight: bold;">
@@ -130,7 +150,7 @@ Please <strong><code>email the coaches</code></strong> with:
 
 <!--
 <div style="display: flex; justify-content: center;">
-  <h4 style="color: orange; font-family: Arial, sans-serif; font-size: 32px; margin-bottom: 0;">Learn how to build a web-based resume!</h4><br>
+  <h4 style="color: orange; font-family: Arial, sans-serif; font-size: 32px; margin-bottom: 0;">Learn how to build a web-based resumé!</h4><br>
   <iframe src="https://resume-template.joelglovier.com/" width="100%" height="600" frameborder="0"></iframe>
 </div>
 -->
