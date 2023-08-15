@@ -118,7 +118,7 @@ categories: jekyll update
     <li style="color:purple; font-size: 20px;"><span style="color:black;">launch a 'sponsor-me' page</span></li>
     <li style="color:green; font-size: 20px;"><span style="color:black;">build 3D CAD models</span></li>
     <li style="color:orange; font-size: 20px;"><span style="color:black;">program / code using JAVA</span></li>
-    <li style="color:blue font-size: 20px;"><span style="color:black;">use a 3D printer</span></li>
+    <li style="color:blue; font-size: 20px;"><span style="color:black;">use a 3D printer</span></li>
     <li style="color:red; font-size: 20px;"><span style="color:black;">fabricate and use tools</span></li>
   </ul><br>
 
