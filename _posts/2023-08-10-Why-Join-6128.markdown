@@ -131,8 +131,8 @@ categories: jekyll update
   </span>
   <iframe src="https://itch.io/embed/74323" frameborder="0" height="167" width="100%"></iframe>
   <br>
-  <span style="display: block; font-size: 16px; color: #CCDDFF; font-weight: bold;">
-    <strong>Try to beat your classmates!</strong><br>
+  <span style="display: block; font-size: 18px; color: #CCDDFF; font-weight: bold;">
+    <strong>Try to beat your teammates!</strong><br>
   </span>
 </div>
 
