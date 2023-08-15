@@ -17,7 +17,7 @@ categories: jekyll update
   </span>
 </div>
 
-<div style="text-align: center; margin: 0 auto; padding-bottom: 30px; overflow: hidden;">
+<div style="text-align: center; margin: 0 auto; padding-bottom: 20px; overflow: hidden;">
   <!--<span style="display: block; font-size: 16px;">
     <strong>rotate phones horizontally 🔄📱</strong><br>
   </span> -->
@@ -42,7 +42,7 @@ categories: jekyll update
   </span>
 </div>
 
-<div style="text-align: center; padding-bottom: 20px;">
+<div style="text-align: center; padding-bottom: 0; overflow: hidden;">
   <span style="display: block; font-size: 12px; color: #006446; font-weight: bold;">
     Play on itch.io > Run game > Good luck!<br>
   </span>
