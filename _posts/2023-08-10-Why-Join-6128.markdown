@@ -19,7 +19,7 @@ categories: jekyll update
   </span>
 </div>
 
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="text-align: center; margin-bottom: 22px;">
   <span style="display: block; font-size: 9px; color: #FF9999;">
     <em><strong><ins>F</ins>or <ins>I</ins>nspiration and <ins>R</ins>ecognition of <ins>S</ins>cience and <ins>T</ins>echnology</strong></em>
   </span>

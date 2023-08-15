@@ -18,12 +18,12 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center; margin-bottom: 5px;">
-  <span style="display: block; font-size: 32px; color: blue; width: 100%; max-width: 100%; padding: 0 10px;">
+  <span style="display: block; font-size: 32px; color: red; width: 100%; max-width: 100%; padding: 0 10px;">
     Play Zig-Zag; tap to move left or right! 💪
   </span>
 </div>
 
-<div style="text-align: center; margin: 0 auto; padding-bottom: 20px; overflow: hidden;">
+<div style="text-align: center; margin: 0 auto; padding-bottom: 15px; overflow: hidden;">
   <!--<span style="display: block; font-size: 16px;">
     <strong>rotate phones horizontally 🔄📱</strong><br>
   </span> -->
@@ -52,8 +52,8 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center; margin-bottom: 5px;">
-  <span style="display: block; font-size: 32px; color: orange; max-width: 90%; margin: 0 auto;">
-    Just in case you have not touched grass yet today! 🌱😂
+  <span style="display: block; font-size: 32px; color: green; max-width: 90%; margin: 0 auto;">
+    Have you touched grass yet today! 🌱😂
   </span>
 </div>
 
