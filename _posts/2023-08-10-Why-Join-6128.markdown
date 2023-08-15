@@ -133,7 +133,7 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center; max-width: 552px; margin: 0 auto;">
-  <span style="display: block; font-size: 114px; color: #000000; font-weight: bold;">
+  <span style="display: block; font-size: 14px; color: #000000; font-weight: bold;">
     <strong>This is called an 'embedded' game</strong><br>
   </span>
   <iframe src="https://itch.io/embed/74323" frameborder="0" height="167" width="552"><a href="https://vladimirslepnev.itch.io/zigzag">Zig Zag by Vladimir Slepnev</a></iframe>
