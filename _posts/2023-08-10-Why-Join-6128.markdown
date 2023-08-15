@@ -122,7 +122,7 @@ categories: jekyll update
     <li style="color:red; font-size: 20px;"><span style="color:black;">fabricate and use tools</span></li>
   </ul><br>
 
-<div style="text-align: center; padding-bottom: 0;">
+<div style="text-align: center; padding-bottom: 20px;">
   <span style="display: block; font-size: 40px; color: #DDDDDD; font-weight: bold;">
     Team Anthem🎵<br>
   </span>
@@ -134,7 +134,7 @@ categories: jekyll update
 
 <div style="display: flex; justify-content: center;">
     <iframe height="167" frameborder="0" src="https://itch.io/embed/74323" width="552">
-        <a href="https://vladimirslepnev.itch.io/zigzag">Zig Zag game</a>
+        <a href="https://vladimirslepnev.itch.io/zigzag">Run game (top), steer tip of line</a>
     </iframe>
 </div>
 
