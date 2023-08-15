@@ -11,8 +11,14 @@ categories: jekyll update
   </span>
 </div>
 
-<div style="text-align: center; margin-bottom: 10px;">
-  <span style="display: block; font-size: 32px; color: #008080; width: 100%; max-width: 100%; padding: 0 10px;">
+<div style="text-align: center; margin: 0 auto;  margin-bottom: 20px;">
+  <span style="display: block; font-size: 22px; color: #BBDDFF; font-weight: bold;">
+    Try to beat your teammates!<br>
+  </span>
+</div>
+
+<div style="text-align: center; margin-bottom: 5px;">
+  <span style="display: block; font-size: 32px; color: blue; width: 100%; max-width: 100%; padding: 0 10px;">
     Play Zig-Zag; tap to move left or right! 💪
   </span>
 </div>
@@ -22,7 +28,7 @@ categories: jekyll update
     <strong>rotate phones horizontally 🔄📱</strong><br>
   </span> -->
   <span style="display: block; font-size: 12px; color: #006400; font-weight: bold;">
-    Play on itch.io > Run game (top) > Good luck!<br>
+    Play on itch.io > Run game (top) > good luck!<br>
   </span>
   <div style="max-width: 552px; margin: 0 auto;">
     <iframe src="https://itch.io/embed/74323" width="552" height="167" frameborder="0"><a href="https://vladimirslepnev.itch.io/zigzag">Zig Zag by Vladimir Slepnev</a></iframe>
@@ -30,19 +36,13 @@ categories: jekyll update
   <br>
 </div>
 
-<div style="text-align: center; margin: 0 auto;  padding-bottom: 40px;">
-  <span style="display: block; font-size: 22px; color: #BBDDFF; font-weight: bold;">
-    Try to beat your teammates!<br>
-  </span>
-</div>
-
-<div style="text-align: center; margin-bottom: 10px;">
+<div style="text-align: center; margin-bottom: 5px;">
   <span style="display: block; font-size: 32px; color: #800080; max-width: 90%; margin: 0 auto;">
     Play Astral Ascent; Who can get the highest? 🚀
   </span>
 </div>
 
-<div style="text-align: center; margin: 0 auto; padding-bottom: 0; overflow: hidden;">
+<div style="text-align: center; margin: 0 auto; padding-bottom: 20px; overflow: hidden;">
   <span style="display: block; font-size: 12px; color: #006446; font-weight: bold;">
     Play on itch.io > Run game > have fun!<br>
   </span>
@@ -51,8 +51,8 @@ categories: jekyll update
   </div>
 </div>
 
-<div style="text-align: center; margin-bottom: 10px;">
-  <span style="display: block; font-size: 32px; color: #800080; max-width: 90%; margin: 0 auto;">
+<div style="text-align: center; margin-bottom: 5px;">
+  <span style="display: block; font-size: 32px; color: orange; max-width: 90%; margin: 0 auto;">
     Just in case you have not touched grass yet today! 🌱😂
   </span>
 </div>
