@@ -122,17 +122,7 @@ categories: jekyll update
     <li style="color:red; font-size: 20px;"><span style="color:black;">fabricate and use tools</span></li>
   </ul><br>
 
-<div style="text-align: center; padding-bottom: 50px;">
-  <span style="display: block; font-size: 40px; color: #DDDDDD; font-weight: bold;">
-    Team Anthem 🎵<br>
-  </span>
-  <audio controls loop>
-    <source src="{{ site.baseurl }}/assets/audio/RR.wav" type="audio/wav">
-    Your browser does not support the audio element.
-  </audio>
-</div>
-
-<div style="text-align: center; margin: 0 auto;">
+<div style="text-align: center; margin: 0 auto;  padding-bottom: 50px;">
   <span style="display: block; font-size: 16px;">
     <em><strong>(rotate phones horizontal)</strong></em><br>
   </span>
@@ -141,12 +131,20 @@ categories: jekyll update
   </span>
   <iframe src="https://itch.io/embed/74323" frameborder="0" height="167" width="100%"></iframe>
   <br>
-  <span style="display: block; font-size: 16px; color: #000000; font-weight: bold;">
+  <span style="display: block; font-size: 16px; color: #CCDDFF; font-weight: bold;">
     <strong>Try to beat your classmates!</strong><br>
   </span>
 </div>
 
-<!-- src="https://itch.io/embed/74323"-->
+<div style="text-align: center; padding-bottom: 0;">
+  <span style="display: block; font-size: 40px; color: #DDDDDD; font-weight: bold;">
+    Team Anthem 🎵<br>
+  </span>
+  <audio controls loop>
+    <source src="{{ site.baseurl }}/assets/audio/RR.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+</div>
 
 <!--
 <div style="display: flex; justify-content: center;">
