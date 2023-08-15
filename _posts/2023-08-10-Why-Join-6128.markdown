@@ -136,7 +136,7 @@ categories: jekyll update
   <span style="display: block; font-size: 14px; color: #000000; font-weight: bold;">
     <strong>Try to beat your classmates!</strong><br>
   </span>
-  <iframe src="https://itch.io/embed/74323" frameborder="0" height="167" width="552"><a href="https://vladimirslepnev.itch.io/zigzag">Zig Zag by Vladimir Slepnev</a></iframe>
+  <iframe src="https://itch.io/embed/74323" frameborder="0" height="167" width="100%"></iframe>
   <br>
   <span style="display: block; font-size: 12px; color: #006400; font-weight: bold;">
     Play on itch.io > run game (top) > good luck!<br>
