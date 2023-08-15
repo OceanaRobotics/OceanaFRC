@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Games🕹️"
+date:   2023-08-13 14:37:26 -0400
+author: Nicholas Rombach
+categories: jekyll update
+---
+<div style="text-align: center; margin-bottom: 10px;">
+  <span style="display: block; font-size: 40px; color: #808080;">
+    Let's game! 🎮
+  </span>
+</div>
+
+<div style="text-align: center; margin-bottom: 10px;">
+  <span style="display: block; font-size: 24px; color: #008080; width: 100%; max-width: 100%; padding: 0 10px;">
+    Play Zig-Zag; tap left or right? 🤔
+  </span>
+</div>
+
+<div style="text-align: center; margin: 0 auto;  padding-bottom: 30px;">
+  <span style="display: block; font-size: 16px;">
+    <strong>rotate phones horizontally 🔄📱 </strong><br>
+  </span>
+  <span style="display: block; font-size: 12px; color: #006400; font-weight: bold;">
+    Play on itch.io > run game <mark>(top)</mark> > Good luck!<br>
+  </span>
+  <iframe frameborder="0" src="https://itch.io/embed/74323" width="552" height="167"><a href="https://vladimirslepnev.itch.io/zigzag">Zig Zag by Vladimir Slepnev</a></iframe>
+  <br>
+</div>
+
+<div style="text-align: center; margin: 0 auto;  padding-bottom: 30px;">
+  <span style="display: block; font-size: 20px; color: #CCDDFF; font-weight: bold;">
+    <strong>Try to beat your teammates!</strong><br>
+  </span>
+</div>
+
+<div style="text-align: center; margin-bottom: 10px;">
+  <span style="display: block; font-size: 32px; color: #800080; max-width: 90%; margin: 0 auto;">
+    Play Astral Ascent; Who gets highest? 🚀
+  </span>
+</div>
+
+<div style="text-align: center; padding-bottom: 20px;">
+  <span style="display: block; font-size: 12px; color: #006446; font-weight: bold;">
+    Play on itch.io > Run game (top) > Good luck!<br>
+  </span>
+  <div style="max-width: 552px; margin: 0 auto;">
+    <iframe src="https://itch.io/embed/806285" width="552" height="167" frameborder="0"><a href="https://bottino-games.itch.io/astral-ascent">Astral Ascent by Bottino Games</a></iframe>
+  </div>
+</div>
