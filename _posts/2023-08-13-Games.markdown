@@ -44,9 +44,18 @@ categories: jekyll update
 
 <div style="text-align: center; margin: 0 auto; padding-bottom: 0; overflow: hidden;">
   <span style="display: block; font-size: 12px; color: #006446; font-weight: bold;">
-    Play on itch.io > Run game > Good luck!<br>
+    Play on itch.io > Run game > have fun!<br>
   </span>
   <div style="max-width: 552px; margin: 0 auto;">
     <iframe src="https://itch.io/embed/806285" width="552" height="167" frameborder="0"><a href="https://bottino-games.itch.io/astral-ascent">Astral Ascent by Bottino Games</a></iframe>
+  </div>
+</div>
+
+<div style="text-align: center; margin: 0 auto; padding-bottom: 0; overflow: hidden;">
+  <span style="display: block; font-size: 12px; color: #006446; font-weight: bold;">
+    Play on itch.io > Run game > ahhh!<br>
+  </span>
+  <div style="max-width: 552px; margin: 0 auto;">
+    <iframe src="https://itch.io/embed/1707778" frameborder="0" height="167" width="552"><a href="https://prsas.itch.io/touch-grass">Touch Grass by P. R. Saseta</a></iframe>
   </div>
 </div>
