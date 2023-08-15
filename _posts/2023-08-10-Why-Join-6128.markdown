@@ -122,6 +122,7 @@ categories: jekyll update
     <li style="color:red; font-size: 20px;"><span style="color:black;">fabricate and use tools</span></li>
   </ul><br>
 
+<!--
 <div style="text-align: center; margin: 0 auto;  padding-bottom: 50px;">
   <span style="display: block; font-size: 16px;">
     <strong>rotate phones horizontally 🔄📱 </strong><br>
@@ -135,6 +136,7 @@ categories: jekyll update
     <strong>Try to beat your teammates!</strong><br>
   </span>
 </div>
+-->
 
 <div style="text-align: center; padding-bottom: 0;">
   <span style="display: block; font-size: 40px; color: #DDDDDD; font-weight: bold;">
