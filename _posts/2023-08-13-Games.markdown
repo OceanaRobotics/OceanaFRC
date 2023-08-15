@@ -25,7 +25,7 @@ categories: jekyll update
     Play on itch.io > Run game (top) > Good luck!<br>
   </span>
   <div style="max-width: 552px; margin: 0 auto;">
-    <iframe frameborder="0" src="https://itch.io/embed/74323" width="552" height="167"><a href="https://vladimirslepnev.itch.io/zigzag">Zig Zag by Vladimir Slepnev</a></iframe></iframe>
+    <iframe frameborder="0" src="https://itch.io/embed/74323" width="552" height="167"><a href="https://vladimirslepnev.itch.io/zigzag">Zig Zag by Vladimir Slepnev</a></iframe>
   </div>
   <br>
 </div>
