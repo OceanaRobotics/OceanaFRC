@@ -132,6 +132,12 @@ categories: jekyll update
   </audio>
 </div>
 
+<div style="display: flex; justify-content: center;">
+    <iframe height="167" frameborder="0" src="https://itch.io/embed/74323" width="552">
+        <a href="https://vladimirslepnev.itch.io/zigzag">Zig Zag game</a>
+    </iframe>
+</div>
+
 <!--
 <div style="display: flex; justify-content: center;">
   <h4 style="color: orange; font-family: Arial, sans-serif; font-size: 32px; margin-bottom: 0;">Learn how to build a web-based resumé!</h4><br>
