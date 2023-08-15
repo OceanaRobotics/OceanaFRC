@@ -124,14 +124,14 @@ categories: jekyll update
 
 <div style="text-align: center; margin: 0 auto;  padding-bottom: 50px;">
   <span style="display: block; font-size: 16px;">
-    <em><strong>(rotate phones horizontal)</strong></em><br>
+    <strong>rotate phones horizontally 🔄📱 </strong><br>
   </span>
   <span style="display: block; font-size: 12px; color: #006400; font-weight: bold;">
-    Play on itch.io > run game (top) > good luck!<br>
+    Play on itch.io > run game <mark>(top)</mark> > good luck!<br>
   </span>
   <iframe src="https://itch.io/embed/74323" frameborder="0" height="167" width="100%"></iframe>
   <br>
-  <span style="display: block; font-size: 18px; color: #CCDDFF; font-weight: bold;">
+  <span style="display: block; font-size: 20px; color: #CCDDFF; font-weight: bold;">
     <strong>Try to beat your teammates!</strong><br>
   </span>
 </div>
