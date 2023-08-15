@@ -142,7 +142,7 @@ categories: jekyll update
   <span style="display: block; font-size: 12px; color: #006446; font-weight: bold;">
     Play on itch.io > run game <mark>(top)</mark> > good luck!<br>
   </span>
-  <iframe src="https://itch.io/embed/806285" width="552" height="167" frameborder="0"><a href="https://bottino-games.itch.io/astral-ascent">Astral Ascent by Bottino Games</a></iframe>
+  <iframe src="https://itch.io/embed/806285" width="552" height="167" frameborder="0"></iframe>
   <br>
   <span style="display: block; font-size: 20px; color: #CCDDFF; font-weight: bold;">
     <strong>Try to beat your teammates!</strong><br>
