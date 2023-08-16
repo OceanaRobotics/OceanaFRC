@@ -1,0 +1,16 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+//@import "layout"; // Import the necessary variables
+
+.site-header {
+  position: fixed; /* Fix the header position */
+  width: 100%; /* Occupy the full width */
+  top: 0; /* Stick to the top of the viewport */
+  left: 0; /* Stick to the left of the viewport */
+  z-index: 1000; /* Make sure the header is above other content */
+}
+
+.page-content {
+    margin-top: 40px; /* Add margin to create space between header and main content */
+}

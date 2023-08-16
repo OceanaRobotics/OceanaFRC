@@ -13,8 +13,6 @@ dl, dd, ol, ul, figure {
 
 }
 
-
-
 /**
  * Basic styling
  */
@@ -96,7 +94,6 @@ li {
     margin-bottom: 0;
   }
 }
-
 
 
 /**
@@ -212,8 +209,7 @@ pre {
   }
 }
 
-
-.wrapper-footer {
+.wrapper-footer { //wrapper2
   max-width: calc(#{$content-width} - (#{$spacing-unit}));
   margin-right: auto;
   margin-left: auto;
@@ -227,8 +223,6 @@ pre {
     padding-left: $spacing-unit;
   }
 }
-
-
 
 /**
  * Clearfix

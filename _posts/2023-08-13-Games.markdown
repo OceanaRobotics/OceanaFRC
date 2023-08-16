@@ -6,8 +6,8 @@ author: Nicholas Rombach
 categories: jekyll update
 ---
 <div style="text-align: center; margin-bottom: 20px;">
-  <span style="display: block; font-size: 48px; color: #808080;">
-    Let's game! 🎮
+  <span style="display: block; font-size: 56px; color: #808080;">
+    Let's game 🎮
   </span>
 </div>
 
@@ -36,13 +36,13 @@ categories: jekyll update
   <br>
 </div>
 
-<div style="text-align: center; margin-bottom: 5px;">
+<div style="text-align: center; padding-bottom: 5px;">
   <span style="display: block; font-size: 32px; color: #800080; max-width: 90%; margin: 0 auto;">
     Play Astral Ascent; Who can get the highest? 🚀
   </span>
 </div>
 
-<div style="text-align: center; margin: 0 auto; padding-bottom: 20px; overflow: hidden;">
+<div style="text-align: center; margin: 0 auto; padding-bottom: 40px; overflow: hidden;">
   <span style="display: block; font-size: 12px; color: #006446; font-weight: bold;">
     Play on itch.io > Run game > have fun!<br>
   </span>

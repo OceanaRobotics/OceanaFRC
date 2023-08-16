@@ -2,14 +2,14 @@
  * Site header
  */
 .site-header {
-  $color1: #FF583333;   // Red with transparency
-  $color2: #9E005D4D;   // Purple with transparency
-  $color3: #FFC3004D;   // Yellow with transparency
-  $color4: #5818454D;   // Purple with transparency
-  $color5: #2C3E504D;   // Blueish with transparency
-  $color6: #FF583333;   // Red with transparency
-  $color7: #9E005D4D;   // Purple with transparency
-  $color8: #FFC3004D;   // Yellow with transparency
+  $color1: #FF583300;   // Red with transparency
+  $color2: #9E005D8e;   // Purple with transparency
+  $color3: #FFC300Ae;   // Yellow with transparency
+  $color4: #5818455e;   // Purple with transparency
+  $color5: #2C3E507e;   // Blueish with transparency
+  $color6: #FF58336e;   // Red with transparency
+  $color7: #9E005D8e;   // Purple with transparency
+  $color8: #FFC300Ae;   // Yellow with transparency
   border-top: 5px solid $border-color-03;
   border-bottom: 1px solid $border-color-01;
   background: linear-gradient(to right, $color1, $color2, $color3, $color4, $color5, $color6, $color7, $color8);
@@ -17,12 +17,11 @@
   line-height: $base-line-height * $base-font-size * 2.25;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  // position: relative;
 }
-
 .site-title {
-  @include relative-font-size(1.625);
-  font-weight: 300;
+  @include relative-font-size(2);
+  font-weight: 400;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -337,8 +336,6 @@
     }
   }
 }
-
-
 
 /**
  * Grid helpers
