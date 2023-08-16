@@ -10,7 +10,7 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center;">
-  <img src="https://3989ac5bcbe1edfc864a-0a7f10f87519dba22d2dbc6233a731e5.ssl.cf2.rackcdn.com/bondhus42/72-dpi-graphics/colorguard/69637_copy2.png" alt="BondusAllenset">
+  <img src="{{ site.baseurl }}/assets/images/BondusAllenset.png" alt="BondusAllenset">
 </div>
 
 <div style="text-align: center; margin-bottom: 10px;">
@@ -100,12 +100,14 @@ categories: jekyll update
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 25px;">
-  <img src="https://www.chiefdelphi.com/uploads/default/original/3X/2/c/2c8ea0c8df7a9f0cd14aa04289ad8b23d94a3e06.gif" alt="Auton">
+  <img src="{{ site.baseurl }}/assets/images/Auton.gif" alt="Auton">
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 25px;">
-  <img src="https://seekvectorlogo.net/wp-content/uploads/2019/03/first-robotics-competition-vector-logo.png" alt="FIRST">
+  <img src="{{ site.baseurl }}/assets/images/FIRST.png" alt="FIRST">
 </div>
+
+<!-- https://seekvectorlogo.net/wp-content/uploads/2019/03/first-robotics-competition-vector-logo.png -->
 
 <p style="color: orange; font-family: Arial, sans-serif; font-size: 30px; margin: 0; font-weight: bold;">
   We can teach you how to:</p>
