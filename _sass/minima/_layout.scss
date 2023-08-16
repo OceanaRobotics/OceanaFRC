@@ -2,8 +2,17 @@
  * Site header
  */
 .site-header {
+  $color1: #FF583333;   // Red with transparency
+  $color2: #9E005D4D;   // Purple with transparency
+  $color3: #FFC3004D;   // Yellow with transparency
+  $color4: #5818454D;   // Purple with transparency
+  $color5: #2C3E504D;   // Blueish with transparency
+  $color6: #FF583333;   // Red with transparency
+  $color7: #9E005D4D;   // Purple with transparency
+  $color8: #FFC3004D;   // Yellow with transparency
   border-top: 5px solid $border-color-03;
   border-bottom: 1px solid $border-color-01;
+  background: linear-gradient(to right, $color1, $color2, $color3, $color4, $color5, $color6, $color7, $color8);
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
 
