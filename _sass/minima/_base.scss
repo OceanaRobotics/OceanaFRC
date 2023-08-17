@@ -41,7 +41,8 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit * .5;
+  //margin-bottom: $spacing-unit * .5; //OG
+  margin-bottom: $spacing-unit;
 }
 
 hr {
@@ -223,6 +224,33 @@ pre {
     padding-left: $spacing-unit;
   }
 }
+
+// added this for col 1-3
+@media screen and (min-width: 200px) {
+  .footer-col-wrapper {
+    display: flex;
+    justify-content: space-between; // Or use space-around or space-evenly
+  }
+  .footer-col {
+    width: auto;
+    padding: 0 ($spacing-unit * .5);
+    max-width: calc(33.333% - ($spacing-unit));
+
+    &:first-child {
+      padding-right: $spacing-unit * .5;
+      padding-left: 0;
+    }
+
+    &:last-child {
+      padding-right: 0;
+      //padding-left: $spacing-unit * .5;
+      padding-left: 0; //col3 fix
+    }
+  }
+}
+// added this for col 1-3 
+
+
 
 /**
  * Clearfix

@@ -134,12 +134,13 @@
  */
 .site-footer {
   border-top: 1px solid $border-color-01;
-  padding: $spacing-unit 0;
+  padding: calc($spacing-unit / 2) 0;
 }
 
 .footer-heading {
-  @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit * .5;
+  @include relative-font-size(2.25);
+  margin-bottom: $spacing-unit * .25;
+  margin: 0 auto;
 }
 
 .feed-subscribe .svg-icon {
@@ -150,7 +151,7 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
-  width: 180px;
+  width: 180px; //socials and contact are linked
 }
 
 .footer-col-wrapper,
@@ -169,7 +170,8 @@
 }
 
 .footer-col-3 {
-  width: calc(100% - (#{$spacing-unit} / 2));
+  // width: calc(100% - (#{$spacing-unit} / 2));
+  width: 100%;
 }
 
 @media screen and (min-width: $on-large) {
@@ -182,7 +184,8 @@
   }
 
   .footer-col-3 {
-    width: calc(45% - (#{$spacing-unit} / 2));
+    // width: calc(45% - (#{$spacing-unit} / 2));
+    width: 100%;
   }
 }
 
@@ -190,6 +193,7 @@
   .footer-col-wrapper {
     display: flex;
     //flex-wrap: nowrap;
+    justify-content: center; //need footer-header text-aligned centered too in footer.html
     justify-content: space-between;
   }
 
@@ -197,21 +201,20 @@
     width: auto; //added 17AUG2023
     //width: calc(50% - (#{$spacing-unit} / 2));
     padding: 0 ($spacing-unit * .5);
-    max-width: calc(50% - 200px);
+    max-width: 100%;
 
     &:first-child {
-      padding-right: $spacing-unit * .5;
-      padding-left: 0;
+      //padding-right: $spacing-unit * .5;
+      padding-left: 10px;
     }
 
     &:last-child {
       padding-right: 0;
-      padding-left: $spacing-unit * .5;
+      //padding-left: $spacing-unit * .5;
+      padding-left: 0; // col3 fix
     }
   }
 }
-
-
 
 /**
  * Page content
