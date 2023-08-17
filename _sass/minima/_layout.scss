@@ -2,14 +2,14 @@
  * Site header
  */
 .site-header {
-  $color1: #FF583300;   // Red with transparency
-  $color2: #9E005D8e;   // Purple with transparency
-  $color3: #FFC300Ae;   // Yellow with transparency
-  $color4: #5818455e;   // Purple with transparency
-  $color5: #2C3E507e;   // Blueish with transparency
-  $color6: #FF58336e;   // Red with transparency
-  $color7: #9E005D8e;   // Purple with transparency
-  $color8: #FFC300Ae;   // Yellow with transparency
+  $color1: rgb(55, 125, 255);
+  $color2: rgb(0, 238, 250);
+  $color3: #ffc400FF;
+  $color4: rgb(240, 82, 193);
+  $color5: rgb(90, 155, 220);
+  $color6: rgb(51, 255, 109);
+  $color7: rgb(247, 187, 35);
+  $color8: rgb(255, 0, 0);
   border-top: 5px solid $border-color-03;
   border-bottom: 1px solid $border-color-01;
   background: linear-gradient(to right, $color1, $color2, $color3, $color4, $color5, $color6, $color7, $color8);
@@ -17,11 +17,11 @@
   line-height: $base-line-height * $base-font-size * 2.25;
 
   // Positioning context for the mobile navigation icon
-  // position: relative;
+  position: relative;
 }
 .site-title {
-  @include relative-font-size(2);
-  font-weight: 400;
+  @include relative-font-size(1.75);
+  font-weight: 800;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -74,6 +74,7 @@
   input ~ .trigger {
     clear: both;
     display: none;
+    padding-top: 5px;
   }
 
   input:checked ~ .trigger {
@@ -85,6 +86,8 @@
     color: $text-color;
     line-height: $base-line-height;
     display: block;
+    font-size: 20px;
+    font-weight: 600;
     padding: 5px 10px;
 
     // Gaps between nav items, but not on the last one
@@ -147,6 +150,7 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
+  width: 180px;
 }
 
 .footer-col-wrapper,
@@ -184,12 +188,16 @@
 
 @media screen and (min-width: $on-medium) {
   .footer-col-wrapper {
-    display: flex
+    display: flex;
+    //flex-wrap: nowrap;
+    justify-content: space-between;
   }
 
   .footer-col {
-    width: calc(100% - (#{$spacing-unit} / 2));
+    width: auto; //added 17AUG2023
+    //width: calc(50% - (#{$spacing-unit} / 2));
     padding: 0 ($spacing-unit * .5);
+    max-width: calc(50% - 200px);
 
     &:first-child {
       padding-right: $spacing-unit * .5;

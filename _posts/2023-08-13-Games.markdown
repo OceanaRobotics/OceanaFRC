@@ -18,8 +18,8 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center; margin-bottom: 5px;">
-  <span style="display: block; font-size: 32px; color: red; width: 100%; max-width: 100%; padding: 0 10px;">
-    Play Zig-Zag; tap to move left or right! 💪
+  <span style="display: block; font-size: 18px; color: red; width: 100%; max-width: 100%; padding: 0 10px;">
+    How long can you last? 🕒
   </span>
 </div>
 
@@ -27,8 +27,8 @@ categories: jekyll update
   <!--<span style="display: block; font-size: 16px;">
     <strong>rotate phones horizontally 🔄📱</strong><br>
   </span> -->
-  <span style="display: block; font-size: 12px; color: #006400; font-weight: bold;">
-    Play on itch.io > Run game (top) > good luck!<br>
+  <span style="display: block; font-size: 12px; color: blue; font-weight: bold;">
+    Play on itch.io > Run game <em>(top)</em> > good luck!<br>
   </span>
   <div style="max-width: 552px; margin: 0 auto;">
     <iframe src="https://itch.io/embed/74323" width="552" height="167" frameborder="0"><a href="https://vladimirslepnev.itch.io/zigzag">Zig Zag by Vladimir Slepnev</a></iframe>
@@ -37,14 +37,14 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center; padding-bottom: 5px;">
-  <span style="display: block; font-size: 32px; color: #800080; max-width: 90%; margin: 0 auto;">
-    Play Astral Ascent; Who can get the highest? 🚀
+  <span style="display: block; font-size: 18px; color: #800080; max-width: 90%; margin: 0 auto;">
+    Who can get the highest? 🚀
   </span>
 </div>
 
 <div style="text-align: center; margin: 0 auto; padding-bottom: 40px; overflow: hidden;">
-  <span style="display: block; font-size: 12px; color: #006446; font-weight: bold;">
-    Play on itch.io > Run game > have fun!<br>
+  <span style="display: block; font-size: 12px; color: blue; font-weight: bold;">
+    Play on itch.io > Run game <em>(top)</em> > have fun!<br>
   </span>
   <div style="max-width: 552px; margin: 0 auto;">
     <iframe src="https://itch.io/embed/806285" width="552" height="167" frameborder="0"><a href="https://bottino-games.itch.io/astral-ascent">Astral Ascent by Bottino Games</a></iframe>
@@ -52,14 +52,14 @@ categories: jekyll update
 </div>
 
 <div style="text-align: center; margin-bottom: 5px;">
-  <span style="display: block; font-size: 32px; color: green; max-width: 90%; margin: 0 auto;">
-    Have you touched grass yet today! 🌱😂
+  <span style="display: block; font-size: 18px; color: green; max-width: 90%; margin: 0 auto;">
+    Touched grass yet today! 🌱😂
   </span>
 </div>
 
 <div style="text-align: center; margin: 0 auto; padding-bottom: 0; overflow: hidden;">
-  <span style="display: block; font-size: 12px; color: #006446; font-weight: bold;">
-    Play on itch.io > Run game > ahhh!<br>
+  <span style="display: block; font-size: 12px; color: blue; font-weight: bold;">
+    Play on itch.io > Run game <em>(top)</em> > ahhh!<br>
   </span>
   <div style="max-width: 552px; margin: 0 auto;">
     <iframe src="https://itch.io/embed/1707778" frameborder="0" height="167" width="552"><a href="https://prsas.itch.io/touch-grass">Touch Grass by P. R. Saseta</a></iframe>
