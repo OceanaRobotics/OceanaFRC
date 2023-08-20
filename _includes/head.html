@@ -1,4 +1,5 @@
 <head>
+  
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMJC4GYXN"></script>
   <script>
@@ -8,6 +9,33 @@
 
     gtag('config', 'G-PSMJC4GYXN');
   </script>
+
+  <!-- rolling header option
+  <script language="JavaScript1.2">
+
+    var message = "Oceana Robotics" 
+    var message = message+"         " 
+    i = "0"			         
+    var temptitle = ""            
+    var speed = "150"          
+
+    function titler(){
+        if (!document.all && !document.getElementById)
+            return
+        document.title = temptitle + message.charAt(i)  
+        temptitle = temptitle + message.charAt(i)       
+        i++					    
+        if(i == message.length)			    
+        {
+            i = "0"					   
+            temptitle = ""				    
+        }
+        setTimeout("titler()",speed) 		   
+    }
+
+    window.onload=titler
+  </script> -->
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">

@@ -11,10 +11,16 @@ categories: jekyll update
   </span>
 </div>
 
-<div style="text-align: center; margin: 0 auto;  margin-bottom: 20px;">
-  <span style="display: block; font-size: 22px; color: #BBDDFF; font-weight: bold;">
-    Try to beat your teammates!<br>
+<div style="text-align: center; margin-bottom: 5px;">
+  <span style="display: block; font-size: 18px; color: navy; width: 100%; max-width: 100%; padding-bottom: 15px;">
+    Computer Science A Game 🖥️
   </span>
+</div>
+
+<div class="centered">
+  <div class="iframe-container" style="margin-top: 0px;">
+    <iframe src="https://csa-games.netlify.app/" frameborder="0" height="690" width="6000"></iframe>
+  </div>
 </div>
 
 <div style="text-align: center; margin-bottom: 5px;">
@@ -53,15 +59,21 @@ categories: jekyll update
 
 <div style="text-align: center; margin-bottom: 5px;">
   <span style="display: block; font-size: 18px; color: green; max-width: 90%; margin: 0 auto;">
-    Touched grass yet today! 🌱😂
+    Play Retro Bowl 🏈
   </span>
 </div>
 
-<div style="text-align: center; margin: 0 auto; padding-bottom: 0; overflow: hidden;">
-  <span style="display: block; font-size: 12px; color: blue; font-weight: bold;">
-    Play on itch.io > Run game <em>(top)</em> > ahhh!<br>
+<div class="centered">
+  <span class="small-text">
+    Play on itch.io > Run game <em>(top)</em> > Touchdown!<br>
   </span>
-  <div style="max-width: 552px; margin: 0 auto;">
-    <iframe src="https://itch.io/embed/1707778" frameborder="0" height="167" width="552"><a href="https://prsas.itch.io/touch-grass">Touch Grass by P. R. Saseta</a></iframe>
+  <div class="embed-container" style="margin-bottom: 50px;">
+    <iframe src="https://itch.io/embed/1766202" width="552" height="167" frameborder="0"><a href="https://vocalnutria9174.itch.io/retro-bowl">Retro Bowl by VocalNutria9174</a></iframe>
   </div>
+</div>
+
+<div style="text-align: center; margin: 0 auto;  margin-bottom: 20px;">
+  <span style="display: block; font-size: 22px; color: #BBDDFF; font-weight: bold;">
+    Try to beat your teammates!<br>
+  </span>
 </div>
