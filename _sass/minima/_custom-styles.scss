@@ -23,17 +23,23 @@
   height: 10vh; /* Adjust as needed */
 }
 
-iframe {
-  max-width: 100%;
+.iframe {
+  max-width: 90%; //was 90%
   max-height: 100%;
+  
+  @media  screen and (min-width: 552px) {
+    max-width: 552px;
+    display: flex;
+  }
 }
+
 
 .centered {
   text-align: center;
   margin: 0 auto;
   margin-top: 0px;
   max-height: fit-content;
-  max-width: fit-content;
+  max-width: 552px;
 }
 
 .embed-container {
@@ -46,7 +52,7 @@ iframe {
 }
 
 .iframe-container {
-  max-width: 600px;
+  max-width: 650px;
   max-height: 650px;
   margin: 20px auto;
   display: flex;
