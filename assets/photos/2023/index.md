@@ -3,10 +3,9 @@ permalink: /assets/photos/2023/
 ---
 
 <div style="text-align: center;">
-  <h2>Album: 2023 Photos</h2>
+  <h2>2023 FRC Season</h2>
   <div style="display: inline-block; text-align: center; margin: 20px;">
     <img src="{{ site.baseurl}}/assets/photos/2023/chargedup.png" alt="ChargedUp">
-    <p style="font-style: italic;">ChargedUp</p>
   </div>
 
   <div style="display: inline-block; text-align: center; margin: 20px;">

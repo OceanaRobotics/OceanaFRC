@@ -4,30 +4,7 @@ title: Photos
 permalink: /photos/
 ---
 
-## Format Gallery
-
-<!-- <div class="album-list">
-  <div class="album-item">
-    <a href="{{ '/albums/2022/' | relative_url }}" class="thumbnail-link">
-      <img src="{{ '/albums/2022/rapidreact.png' | relative_url }}" alt="Open 2022 Folder">
-    </a>
-    <span class="album-label">2022 FRC</span>
-  </div>
-
-  <div class="album-item">
-    <a href="{{ '/albums/2023/' | relative_url }}" class="thumbnail-link">
-      <img src="{{ '/albums/2023/chargedup.png' | relative_url }}" alt="Open 2023 Folder">
-    </a>
-    <span class="album-label">2023 FRC</span>
-  </div>
-
-  <div class="album-item">
-    <a href="{{ '/albums/2024/' | relative_url }}" class="thumbnail-link">
-      <img src="{{ '/albums/2024/crescendo.png' | relative_url }}" alt="Open 2024 Folder">
-    </a>
-    <span class="album-label">2024 FRC</span>
-  </div>
-</div> -->
+## FRC Seasons Albums
 
 <div class="album-list">
   <div class="album-item">
