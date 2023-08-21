@@ -8,7 +8,7 @@ permalink: /photos/
 
 <div class="album-list">
   <div class="album-item">
-    <a href="{{ '/albums/2022' | relative_url }}" class="thumbnail-link">
+    <a href="{{ '/albums/2022/' | relative_url }}" class="thumbnail-link">
       <img src="{{ '/albums/2022/rapidreact.png' | relative_url }}" alt="Open 2022 Folder">
     </a>
     <span class="album-label">2022 FRC</span>
@@ -22,8 +22,8 @@ permalink: /photos/
   </div>
 
   <div class="album-item">
-    <a href="{{ '/_albums/2024/' | relative_url }}" class="thumbnail-link">
-      <img src="{{ 'albums/2024/crescendo.png' | relative_url }}" alt="Open 2024 Folder">
+    <a href="{{ '/albums/2024/' | relative_url }}" class="thumbnail-link">
+      <img src="{{ '/albums/2024/crescendo.png' | relative_url }}" alt="Open 2024 Folder">
     </a>
     <span class="album-label">2024 FRC</span>
   </div>

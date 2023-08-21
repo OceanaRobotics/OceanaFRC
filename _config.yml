@@ -66,6 +66,8 @@ collections:
   albums:
     output: true
 
+directory_index: 
+
 # header_pages:
 #   # - OceanaFRC/_pages/about.md
 #   # - /_pages/contact.md
