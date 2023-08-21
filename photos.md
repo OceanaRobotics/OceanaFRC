@@ -4,7 +4,7 @@ title: Photos
 permalink: /photos/
 ---
 
-## Format into a Gallery
+## Format Gallery
 
 <div class="album-list">
   <div class="album-item">
