@@ -62,6 +62,10 @@ sass:
   style: compressed
   sass_dir: _sass
 
+collections:
+  albums:
+    output: true
+
 # header_pages:
 #   # - OceanaFRC/_pages/about.md
 #   # - /_pages/contact.md
