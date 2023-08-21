@@ -78,3 +78,46 @@
   max-width: 90%;
 }
 
+// photos
+// .thumbnail-link {
+//   display: inline-block;
+//   width: 150px; /* Adjust the width as needed */
+//   border: 1px solid #ccc;
+//   padding: 5px;
+//   text-align: center;
+//   text-decoration: none;
+//   background-color: #f5f5f5;
+// }
+
+.album-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.album-item {
+  display: flex; /* Change to flex for vertical alignment */
+  flex-direction: column; /* Stack content vertically */
+  align-items: center; /* Center content horizontally */
+  text-align: center;
+  margin: 10px;
+}
+
+.thumbnail-link {
+  display: block;
+  max-width: 200px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.thumbnail-link img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.album-label {
+  display: block;
+  margin-top: 5px;
+  font-weight: bold;
+}
+

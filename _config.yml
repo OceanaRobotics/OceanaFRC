@@ -36,10 +36,17 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jemoji
-#  - jekyll-miniaudio
+  - jekyll-google-calendar
 
-# audio
-# require: jekyll-miniaudio
+# google calender
+# gcalendar:
+#   key_file: PATH-TO-YOUR-GOOGLE-SERVICE-ACCOUNT-KEY.json
+#   calendars:
+#     - id: YOUR-CALENDAR-ID      # eg. blahblahblah12345678912345@group.calendar.google.com
+#       directory: events         # the directory in which to place geneated events
+#       layout: gc_event          # the Jekyll layout template to use for events
+#       date_format: "%d-%m-%Y"   # Uses Strftime formating directive (http://strftime.net/)
+#       look_ahead: 365           # 1 year in days
 
 # include assets directory to be seen by jekyll
 include:
@@ -54,6 +61,21 @@ favicon: "/assets/images/robot.png"
 sass:
   style: compressed
   sass_dir: _sass
+
+# header_pages:
+#   # - OceanaFRC/_pages/about.md
+#   # - /_pages/contact.md
+#   - OceanaFRC/_data/pages.yml
+
+# data_files:
+#   - _data
+
+# navigation:
+# - title: About
+#   url: /OceanaFRC/_pages/about.md
+# - title: Contact Us
+#   url: /OceanaFRC/_pages/contact.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

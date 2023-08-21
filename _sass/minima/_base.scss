@@ -42,7 +42,7 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   //margin-bottom: $spacing-unit * .5; //OG
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit * .5;
 }
 
 hr {

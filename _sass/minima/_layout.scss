@@ -19,6 +19,7 @@
   // Positioning context for the mobile navigation icon
   position: relative;
 }
+
 .site-title {
   @include relative-font-size(1.75);
   font-weight: 800;
@@ -36,8 +37,10 @@
   }
 }
 
+// Navigation settings start
 .site-nav {
   position: absolute;
+  display: inline-block;
   top: 9px;
   right: $spacing-unit * .5;
   background-color: $background-color;
@@ -45,9 +48,6 @@
   border-radius: 5px;
   text-align: right;
 
-  .nav-trigger {
-    display: none;
-  }
 
   .menu-icon {
     float: right;
@@ -95,6 +95,21 @@
       margin-right: 0;
     }
     margin-left: 20px;
+  } 
+
+  .nav-trigger {
+    display: none; /* Display the trigger */
+    width: 36px;
+    height: 36px;
+    z-index: 2;
+    cursor: pointer;
+    /* Inherit background color from site-header */
+    background-color: inherit;
+    border: 1px solid $border-color-01; /* Add border */
+    border-radius: 5px; /* Add border radius */
+    // text-align: center;
+    justify-content: space-between;
+    padding: 5px;
   }
 
   @media screen and (min-width: $on-medium) {
@@ -126,7 +141,7 @@
     }
   }
 }
-
+//end navigation
 
 
 /**
@@ -172,6 +187,8 @@
 .footer-col-3 {
   // width: calc(100% - (#{$spacing-unit} / 2));
   width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 @media screen and (min-width: $on-large) {
@@ -186,6 +203,9 @@
   .footer-col-3 {
     // width: calc(45% - (#{$spacing-unit} / 2));
     width: 100%;
+    width: 100%;
+    // display: flex;
+    // justify-content: center;
   }
 }
 
@@ -212,6 +232,8 @@
       padding-right: 0;
       //padding-left: $spacing-unit * .5;
       padding-left: 0; // col3 fix
+      // display: flex;
+      // justify-content: center
     }
   }
 }
