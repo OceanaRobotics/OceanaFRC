@@ -4,9 +4,8 @@ permalink: /assets/photos/2022/
 
 <div style="text-align: center;">
   <h2>2022 FRC Season</h2>
-  <div style="display: inline-block; text-align: center; margin: 20px;">
+  <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="{{ site.baseurl}}/assets/photos/2022/rapidreact.png" alt="Rapid React">
-    <p style="font-style: bold;">Rapid React</p>
   </div>
 
   <div style="display: inline-block; text-align: center; margin: 20px;">
