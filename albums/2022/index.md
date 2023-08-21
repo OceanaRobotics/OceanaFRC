@@ -1,3 +1,3 @@
 ---
-permalink: /_albums/2022
+permalink: /albums/2022
 ---

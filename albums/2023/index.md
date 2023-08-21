@@ -1,3 +1,3 @@
 ---
-permalink: /_albums/2023
+permalink: /albums/2023
 ---

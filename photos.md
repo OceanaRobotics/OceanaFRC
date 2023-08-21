@@ -6,7 +6,7 @@ permalink: /photos/
 
 ## Format Gallery
 
-<div class="album-list">
+<!-- <div class="album-list">
   <div class="album-item">
     <a href="{{ '/albums/2022/' | relative_url }}" class="thumbnail-link">
       <img src="{{ '/albums/2022/rapidreact.png' | relative_url }}" alt="Open 2022 Folder">
@@ -27,9 +27,9 @@ permalink: /photos/
     </a>
     <span class="album-label">2024 FRC</span>
   </div>
-</div>
+</div> -->
 
-<!-- <div class="album-list">
+<div class="album-list">
   <div class="album-item">
     <a href="{{ site.baseurl }}/assets/photos/2022/" class="thumbnail-link">
       <img src="{{ site.baseurl }}/assets/photos/2022/rapidreact.png" alt="Open 2022 Folder">
@@ -50,7 +50,7 @@ permalink: /photos/
     </a>
     <span class="album-label">2024 FRC</span>
   </div>
-</div> -->
+</div>
 
 <!--
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
