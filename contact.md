@@ -76,6 +76,10 @@ permalink: /contact/
         <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required>
       </div>
       <div class="form-field">
+        <label for="school">School</label>
+        <input type="text" name="school" id="school" placeholder="Your School Name" required>
+      </div>
+      <div class="form-field">
         <label for="message">Message</label>
         <textarea rows="5" name="message" id="message" placeholder="Please write us a message and we will get back to you ASAP!" required></textarea>
       </div>
@@ -85,3 +89,26 @@ permalink: /contact/
   </div>
 </body>
 </html>
+<!-- <body>
+  <div class="container">
+    <h1>Email Us</h1>
+    <p>Please use the form below to get in touch with us.</p>
+    <form class="fs-frm" id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xwkdovwy" method="post">
+      <div class="form-field">
+        <label for="full-name">Full Name</label>
+        <input type="text" name="name" id="full-name" placeholder="First and Last" required>
+      </div>
+      <div class="form-field">
+        <label for="email-address">Your Email Address</label>
+        <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required>
+      </div>
+      <div class="form-field">
+        <label for="message">Message</label>
+        <textarea rows="5" name="message" id="message" placeholder="Please write us a message and we will get back to you ASAP!" required></textarea>
+      </div>
+      <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+      <button type="submit" class="submit-button">Submit</button>
+    </form>
+  </div>
+</body>
+</html> -->
