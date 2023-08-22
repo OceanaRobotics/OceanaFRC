@@ -1,0 +1,3 @@
+[submodule "jekyll-google-calendar"]
+    path = jekyll-google-calendar
+    url = https://github.com/davidgundry/jekyll-google-calendar.git
