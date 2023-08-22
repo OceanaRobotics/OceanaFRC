@@ -16,10 +16,10 @@ permalink: /calender/
 
     @media (max-width: 600px) {
       .calendar-container {
-        max-width: calc(100vw - 20px); /* Adjust as needed to avoid cut-off */
+        max-width: calc(100vw - 30px); /* Adjust as needed to avoid cut-off */
       }
     }
-    
+
   </style>
   <div class="calendar-container">
     <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&title=Oceana%20Robotics%20Team%20Calendar&src=ZWFkMWJkMmNiNWY1MTAwYzk0ZDNjMzMwYjVmYjFkZjcwNjk3YzkwODExOGM1MjNlNWY0MTI5YjE5ZjJjMmJhYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23D50000&color=%230B8043" style="border-width: 0; width: 100%; height: 600px" frameborder="0" scrolling="no"></iframe>
