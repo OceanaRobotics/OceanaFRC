@@ -44,7 +44,7 @@ gcalendar:
   calendars:
     - id: ead1bd2cb5f5100c94d3c330b5fb1df70697c908118c523e5f4129b19f2c2bab@group.calendar.google.com      # eg. blahblahblah12345678912345@group.calendar.google.com
       directory: events         # the directory in which to place geneated events
-      layout: gc_event          # the Jekyll layout template to use for events
+      layout: page          # the Jekyll layout template to use for events (was gc_event for gc_event.html in _layouts)
       date_format: "%d-%m-%Y"   # Uses Strftime formating directive (http://strftime.net/)
       look_ahead: 365           # 1 year in days
 
