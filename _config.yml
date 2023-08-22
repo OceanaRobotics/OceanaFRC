@@ -38,15 +38,15 @@ plugins:
   - jemoji
   - jekyll-google-calendar
 
-# google calender
-# gcalendar:
-#   key_file: PATH-TO-YOUR-GOOGLE-SERVICE-ACCOUNT-KEY.json
-#   calendars:
-#     - id: YOUR-CALENDAR-ID      # eg. blahblahblah12345678912345@group.calendar.google.com
-#       directory: events         # the directory in which to place geneated events
-#       layout: gc_event          # the Jekyll layout template to use for events
-#       date_format: "%d-%m-%Y"   # Uses Strftime formating directive (http://strftime.net/)
-#       look_ahead: 365           # 1 year in days
+# api_keys is a folder that is in the 'hidden' .gitignore directory
+gcalendar:
+  key_file: api_keys/oceana-robotics-calendar-0133a50b140b.json
+  calendars:
+    - id: ead1bd2cb5f5100c94d3c330b5fb1df70697c908118c523e5f4129b19f2c2bab@group.calendar.google.com      # eg. blahblahblah12345678912345@group.calendar.google.com
+      directory: events         # the directory in which to place geneated events
+      layout: gc_event          # the Jekyll layout template to use for events
+      date_format: "%d-%m-%Y"   # Uses Strftime formating directive (http://strftime.net/)
+      look_ahead: 365           # 1 year in days
 
 # include assets directory to be seen by jekyll
 include:

@@ -64,7 +64,7 @@ permalink: /contact/
 </head>
 <body>
   <div class="container">
-    <h1>Contact Us</h1>
+    <h1>Email Us</h1>
     <p>Please use the form below to get in touch with us.</p>
     <form class="fs-frm" id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xwkdovwy" method="post">
       <div class="form-field">
@@ -72,7 +72,7 @@ permalink: /contact/
         <input type="text" name="name" id="full-name" placeholder="First and Last" required>
       </div>
       <div class="form-field">
-        <label for="email-address">Email Address</label>
+        <label for="email-address">Your Email Address</label>
         <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required>
       </div>
       <div class="form-field">
