@@ -120,3 +120,49 @@
   margin-top: 5px;
   font-weight: bold;
 }
+
+///////////////// FAQ styles
+.faq-container {
+  padding: 10px;
+  //margin: 20px 0;
+}
+
+.faq-item {
+  margin-bottom: 30px;
+}
+
+.question {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: small;
+  position: relative; /* Add this */
+}
+
+.question::before {
+  content: "+";
+  position: absolute;
+  left: -20px;
+  font-weight: bold;
+  transition: transform 1s;
+}
+
+.answer {
+  display: none;
+  margin-top: 10px;
+}
+
+.show {
+  display: block;
+}
+
+.question.clicked {
+  background-color: rgba(0, 13, 255, 0.253);
+  border-radius: 10px;
+}
+
+.question.clicked::before {
+  color: rgb(0, 13, 255);
+  content: "-"; /* Change the content to a minus sign */
+  transform: rotate(180deg); /* Rotate the minus sign */
+}
+// end FAQ styles
