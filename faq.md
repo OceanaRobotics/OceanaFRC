@@ -7,7 +7,7 @@ permalink: /faq/
 <div style="text-align: center; font-weight: bold;">
   <h2>Frequently Asked Questions</h2>
 </div>
-
+--- 
 <div class="faq-container">
 {% for faq_item in site.data.faq %}
   <div class="faq-item">
@@ -32,29 +32,3 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 });
 </script>
-
-<!-- ## Frequently Asked Questions
-
-<div class="faq-container">
-{% for faq_item in site.data.faq %}
-  <div class="faq-item">
-    <h3 class="question">{{ faq_item.question }}</h3>
-    <div class="answer">{{ faq_item.answer }}</div>
-  </div>
-{% endfor %}
-</div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  const faqItems = document.querySelectorAll(".faq-item");
-
-  faqItems.forEach(function(item) {
-    const question = item.querySelector(".question");
-    const answer = item.querySelector(".answer");
-
-    question.addEventListener("click", function() {
-      answer.classList.toggle("show");
-    });
-  });
-});
-</script> -->

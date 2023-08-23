@@ -202,6 +202,8 @@ pre {
   padding-right: $spacing-unit * .5;
   padding-left: $spacing-unit * .5;
   @extend %clearfix;
+  position: relative; //relative, omit if not working
+  justify-content: space-evenly;
 
   @media screen and (min-width: $on-large) {
     max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));

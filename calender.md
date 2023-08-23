@@ -4,7 +4,9 @@ title: Calender
 permalink: /calender/
 ---
 
-<div style="color: navy; font-size: 36px; font-weight: bold; margin-bottom: 0px;">What's happening? 🗓️</div>
+<div style="color: navy; font-size: 36px; font-weight: bold; margin-bottom: 0px; text-align: center;">What's happening? 🗓️</div>
+
+---
 
 <style>
   .calendar-container {
