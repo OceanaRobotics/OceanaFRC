@@ -109,7 +109,7 @@
   position: absolute;
   top: calc(100% + 5px);
   right: 0;
-  left: auto; /* Remove left property to align to the right */
+  left: auto;
   z-index: 2;
 }
 
@@ -147,139 +147,22 @@
 
 .nav-links {
   display: none;
+  width: 90px;
 }
 
-// .retap-nav-links {
-//   display: none;
-// }
+.page-link {
+  border-bottom: 1px solid #ddd; /* Add a border at the bottom of each link */
+  padding: 5px 0; /* Add some vertical spacing */
+  display: block; /* Make the links take full width */
+  text-align: center; /* Center the link text */
+  text-decoration: none; /* Remove underline */
+  -webkit-tap-highlight-color: transparent; /* For WebKit browsers (e.g., Safari, Chrome) */
+  tap-highlight-color: transparent; /* For other browsers */
+}
 
-// .nav-links.open {
-//   display: block;
-//   // ... (your existing styles)
-// }
-
-// .nav-links.retap-nav-links {
-//   display: none;
-//   // ... (your existing styles)
-// }
-// @media screen and (min-width: $on-medium) {
-//   /* Styles for the retap nav links on desktop */
-//   .retap-nav-links {
-//     display: none;
-//   }
-//   .nav-links.retap-nav-links {
-//     display: none;
-//     // ... (your existing styles)
-//   }
-// }
-
-// USED BELOW ////////////////////////////
-
-// .site-nav {
-//   position: absolute;
-//   display: inline-block;
-//   top: 9px;
-//   right: $spacing-unit * .5;
-//   background-color: $background-color;
-//   border: 1px solid $border-color-01;
-//   border-radius: 5px;
-//   text-align: right;
-
-
-//   .menu-icon {
-//     float: right;
-//     width: 36px;
-//     height: 26px;
-//     line-height: 0;
-//     padding-top: 10px;
-//     text-align: center;
-
-//     > svg path {
-//       fill: $border-color-03;
-//     }
-//   }
-
-//   label[for="nav-trigger"] {
-//     display: block;
-//     float: right;
-//     width: 36px;
-//     height: 36px;
-//     z-index: 2;
-//     cursor: pointer;
-//   }
-
-//   input ~ .trigger {
-//     clear: both;
-//     display: none;
-//     padding-top: 5px;
-//   }
-
-//   input:checked ~ .trigger {
-//     display: block;
-//     padding-bottom: 5px;
-//   }
-
-//   .page-link {
-//     color: $text-color;
-//     line-height: $base-line-height;
-//     display: block;
-//     font-size: 20px;
-//     font-weight: 600;
-//     padding: 5px 10px;
-
-//     // Gaps between nav items, but not on the last one
-//     &:not(:last-child) {
-//       margin-right: 0;
-//     }
-//     margin-left: 20px;
-//   } 
-
-//   .nav-trigger {
-//     display: none; /* Display the trigger */
-//     width: 36px;
-//     height: 36px;
-//     z-index: 2;
-//     cursor: pointer;
-//     /* Inherit background color from site-header */
-//     background-color: inherit;
-//     border: 1px solid $border-color-01; /* Add border */
-//     border-radius: 5px; /* Add border radius */
-//     // text-align: center;
-//     justify-content: space-between;
-//     padding: 5px;
-//   }
-
-//   @media screen and (min-width: $on-medium) {
-//     position: static;
-//     float: right;
-//     border: none;
-//     background-color: inherit;
-
-//     label[for="nav-trigger"] {
-//       display: none;
-//     }
-
-//     .menu-icon {
-//       display: none;
-//     }
-
-//     input ~ .trigger {
-//       display: block;
-//     }
-
-//     .page-link {
-//       display: inline;
-//       padding: 0;
-
-//       &:not(:last-child) {
-//         margin-right: 20px;
-//       }
-//       margin-left: auto;
-//     }
-//   }
-// }
-//end navigation
-
+.page-link:last-child {
+  border-bottom: none; /* Remove border from the last link */
+}
 
 /**
  * Site footer

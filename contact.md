@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Contact
+title:  Contact Us
 permalink: /contact/
 # date:   2023-08-20 14:37:36 -0400
 # author: Nicholas Rombach

@@ -11,7 +11,7 @@ permalink: /faq/
 <div class="faq-container">
 {% for faq_item in site.data.faq %}
   <div class="faq-item">
-    <h3 class="question">{{ faq_item.question }}</h3>
+    <div class="question">{{ faq_item.question }}</div>
     <div class="answer">{{ faq_item.answer }}</div>
   </div>
 {% endfor %}

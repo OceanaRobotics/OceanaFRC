@@ -31,7 +31,7 @@ To get started using this static website-building platform, a few different soft
 
 ## Windows 10
 ### Visual Studio Code
-Professional development environent. This will be installed in a Lab for the programming team. To get ahead of that Lab, follow these steps:
+VS Code is a professional development environment. This will be installed in a Lab for the programming team. To get ahead of that Lab, please follow these steps:
 
 Go to official Visual Studio Code website using your web browser.
 - `https://code.visualstudio.com/`
@@ -64,7 +64,8 @@ Jekyll (static website generator) may require extensions which can be compiled u
 
 ### Install Jekyll and Bundler
 With Ruby, we can install Jekyll and Bundler (a Ruby "gem" for managing gem depenencies)
-- open a new command prompt and run: `gem install jekyll bundler`
+- open a new command prompt
+- run `gem install jekyll bundler`
 
 ### Install Git
 Git is tool to interact with GitHub and GitHub's revision control system and funcationality.
@@ -96,6 +97,7 @@ Launch VS Code
 - launch from applications folder
 
 ### Install homebrew
+Note: for future reference, be careful using `curl` command. Make sure you know what you are curl'ing.
 - open Terminal (cmd+space > type Terminal > Enter)
 - run the following command: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
@@ -155,8 +157,8 @@ From here, there are options:
 After installing Jekyll, you can create a new Jekyll website (instead of cloning) and start working on it.
 - Choose or create a directory where you want to store your jekyll site (e.g., C:\Users\YourUsername\Documents\MyJekyllSite, or $/Users/YourUsername/Desktop/MyNewFolder)
 
-Alternative way to create directory (folder):
-- Windows: type `dir C:\Users\YourUsername\Documents\MyJekyllSite` > enter)
+Alternative way to create a directory from cmd or Terminal (folder):
+- Windows: type `mkdir C:\Users\YourUsername\Documents\MyJekyllSite` > enter)
 - macOS: type `mkdir /Users/YourUsername/Desktop/MyNewFolder`
 
 Open a command prompt (Windows) or Terminal (macOS) and nagivate to the directory you just created
@@ -174,6 +176,23 @@ If you are not hosting your Jekyll site on GitHub Pages (which is free to do), y
 Jekyll framework is now running locally on your computer.
 - open your browser
 - visit `http://127.0.0.1:4000` (i.e., localhost on port 4000)
+
+Note: if you want to do <strong>development for mobile</strong> (i.e., phone, or another device), you can! Follow these steps:
+- connect your mobile device to the same network (WiFi or Ethernet) as your main device (laptop or desktop)
+
+Find the IP address of your laptop or desktop (e.g., 192.168.x.x, 10.x.x.x)
+- Windows: Control Panel > Network and Sharing Center > Click active connection (WiFi or Ethernet) > click Details > view IPv4 Address or Win + R > type `cmd` > enter > type `ipconfig` > enter > look for IPv4 for WiFi or Ethernet 
+- macOS: System Preferences > Network > click active connection (WiFi or Ethernet) > view IP address (e.g., 192.168.x.x, 10.x.x.x) or command + space > typ `Terminal` > type `ipconfig getifaddr en0` and enter (NOTE: could be `en1` instead of `en0`)
+
+Now, instead of running `bundle exec jekyll serve` which will serve at `http://127.0.0.1:4000` you enter this to serve for mobile:
+- `bundle exec jekyll serve --host=YOUR_IP_ADDRESS` (e.g., `bundle exec jekyll serve --host=192.168.1.25`)
+
+On your mobile:
+- open a browser
+- type `http://YOUR_IP_Address:4000/END_POINT/` (e.g., `http://192.168.1.25:4000/OceanaFRC/`)
+- Note: case sensitivites and trailing `/`
+
+You are now serving a development server on your main device that you are accessing from another device on the same network ("ad hoc").
 
 ## Hosting Jekyll Website
 To host your website, you can use GitHub Pages. This requires you to make a GitHub account (or I will let you use the Team's account). Big ideas here:
