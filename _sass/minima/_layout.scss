@@ -145,29 +145,33 @@
   display: block;
 }
 
-.retap-nav-links {
+.nav-links {
   display: none;
 }
 
-.nav-links.open {
-  display: block;
-  // ... (your existing styles)
-}
+// .retap-nav-links {
+//   display: none;
+// }
 
-.nav-links.retap-nav-links {
-  display: none;
-  // ... (your existing styles)
-}
-@media screen and (min-width: $on-medium) {
-  /* Styles for the retap nav links on desktop */
-  .retap-nav-links {
-    display: none;
-  }
-  .nav-links.retap-nav-links {
-    display: none;
-    // ... (your existing styles)
-  }
-}
+// .nav-links.open {
+//   display: block;
+//   // ... (your existing styles)
+// }
+
+// .nav-links.retap-nav-links {
+//   display: none;
+//   // ... (your existing styles)
+// }
+// @media screen and (min-width: $on-medium) {
+//   /* Styles for the retap nav links on desktop */
+//   .retap-nav-links {
+//     display: none;
+//   }
+//   .nav-links.retap-nav-links {
+//     display: none;
+//     // ... (your existing styles)
+//   }
+// }
 
 // USED BELOW ////////////////////////////
 
