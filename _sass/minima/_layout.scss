@@ -20,11 +20,9 @@
   top: 0; /* Stick to the top of the viewport */
   left: 0; /* Stick to the left of the viewport */
   z-index: 1000; /* Make sure the header is above other content */
+  
   // Positioning context for the mobile navigation icon
   position: relative; //return to this
-  // display: flex;
-  // justify-content: space-between
-  // align-items: center
 }
 
 .site-title {
@@ -65,8 +63,6 @@
   /* Adjust positioning for desktop */
   .site-nav {
     right: calc(100% - 700px); /* Adjust this value as needed */
-    //width: auto;
-    //height: auto;
     padding-top: 10px;
     width: 36px;
     height: 30px;
@@ -94,17 +90,13 @@
   display: none;
 }
 
-/* Use the "checked" state of the checkbox to toggle the dropdown */
-.nav-trigger:checked ~ .nav-links {
-  display: block;
-}
-
 .nav-links {
   display: none;
+  width: 90px;
   background-color: #f1f1f1;
   border: 1px solid #ccc;
   border-radius: 5px;
-  padding: 10px;
+  padding: 5px;
   text-align: center;
   position: absolute;
   top: calc(100% + 5px);
@@ -134,21 +126,8 @@
     text-align: center;
     cursor: pointer;
   }
-
-  /* Use the "checked" state of the checkbox to toggle the dropdown */
-  #nav-trigger:checked ~ .nav-links {
-    display: block;
-  }
 }
 
-.nav-links-open {
-  display: block;
-}
-
-.nav-links {
-  display: none;
-  width: 90px;
-}
 
 .page-link {
   border-bottom: 1px solid #ddd; /* Add a border at the bottom of each link */
@@ -163,6 +142,31 @@
 .page-link:last-child {
   border-bottom: none; /* Remove border from the last link */
 }
+
+/* Use the "checked" state of the checkbox to toggle the dropdown */
+.nav-trigger:checked ~ .nav-links {
+  display: block;
+}
+
+///////////////////////////////
+
+/* use this for scroll script and off-click script (customer-header.html)*/
+// for toggling
+// .nav-links-open {
+//   display: block;
+// }
+
+// // for toggling
+// .menu-open body {
+//   overflow: hidden;
+// }
+
+// /* Use the "checked" state of the checkbox to toggle the dropdown */
+// .nav-trigger:checked ~ .nav-links.active {
+//   display: block;
+// }
+
+////////////////////////////
 
 /**
  * Site footer

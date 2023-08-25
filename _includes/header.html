@@ -8,7 +8,7 @@
       <input
         type="checkbox"
         id="nav-trigger"
-        class="nav-trigger" />
+        class="nav-trigger"/>
       <label for="nav-trigger" class="menu-icon">
         <svg
           viewBox="0 0 18 15"
@@ -28,43 +28,3 @@
     </nav>
   </div>
 </header>
-
-<!-- <script>
-document.addEventListener("DOMContentLoaded", function() {
-  const navTrigger = document.querySelector(".nav-trigger");
-  const navContainer = document.querySelector(".nav-links");
-
-  // Function to toggle the navigation links visibility
-  function toggleNavLinks() {
-    if (navTrigger.checked) {
-      navContainer.style.display = "block";
-    } else {
-      navContainer.style.display = "none";
-    }
-  }
-
-  // Toggle the nav links visibility on nav-trigger change
-  navTrigger.addEventListener("change", toggleNavLinks);
-
-  // Close navigation when clicking outside the navigation container or on the navigation trigger
-  document.addEventListener("click", function(event) {
-    if (!navContainer.contains(event.target) && event.target !== navTrigger) {
-      navTrigger.checked = false;
-      toggleNavLinks();
-    }
-  });
-
-  // Close navigation when scrolling
-  document.addEventListener("scroll", function() {
-    if (navTrigger.checked) {
-      navTrigger.checked = false;
-      toggleNavLinks();
-    }
-  });
-
-  // Toggle the nav links visibility when clicking the navigation trigger again
-  navTrigger.addEventListener("click", function() {
-    toggleNavLinks(); // Toggle the display on every click
-  });
-});
-</script> -->

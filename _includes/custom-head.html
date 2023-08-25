@@ -2,3 +2,58 @@
 <link rel="icon" href="{{ 'assets/images/robot.png' | relative_url }}">
 
 <!-- {% comment %} <link rel="stylesheet" href="{{ "/assets/css/custom-styles.css" | relative_url }}"> {% endcomment %} -->
+
+<!-- optional scroll and off-click to close menu -->
+<!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  $(document).ready(function () {
+    const navTrigger = $(".nav-trigger"); // Cache jQuery object
+    const navLinks = $(".nav-links");
+
+    // Cache jQuery object for document
+    const $document = $(document);
+
+    // Function to close the menu
+    function closeMenu() {
+      $("body").removeClass("menu-open");
+      navLinks.removeClass("active");
+    }
+
+    // Function to toggle the menu
+    function toggleMenu() {
+      if (navTrigger.prop("checked")) {
+        $("body").addClass("menu-open");
+        navLinks.addClass("active");
+      } else {
+        closeMenu();
+      }
+    }
+
+    // Attach change event listener to the menu icon
+    navTrigger.on("change", function () {
+      toggleMenu();
+    });
+
+    // Attach click event listener to the document to close the menu on outside click
+    $document.on("click", function (event) {
+      if (!navLinks.is(event.target) && !navTrigger.is(event.target)) {
+        closeMenu();
+      }
+    });
+
+    // Debounce the scroll event to improve performance
+    const debouncedCloseMenu = debounce(closeMenu, 20); // Adjust debounce time as needed
+    $(window).on("scroll", debouncedCloseMenu);
+  });
+
+  // Debounce function
+  function debounce(func, delay) {
+    let timeoutId;
+    return function (...args) {
+      clearTimeout(timeoutId);
+      timeoutId = setTimeout(() => {
+        func.apply(this, args);
+      }, delay);
+    };
+  }
+</script> -->
