@@ -21,10 +21,14 @@
       <div class="nav-links" id="nav-links">
         {% for my_page in site.pages %}
           {% if my_page.title and my_page.title != "Jekyll::Google::Calendar" and my_page.title != "Create Google Calendar" %}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            {% capture relative_page_url %}{{ my_page.url | relative_url }}{% endcapture %}
+            {% unless relative_page_url contains "/events/" %}
+              <a class="page-link" href="{{ relative_page_url }}">{{ my_page.title | escape }}</a>
+            {% endunless %}
           {% endif %}
         {% endfor %}
       </div>
     </nav>
   </div>
 </header>
+<!-- added capture and unless sequences to counter calendar event population to page-link from root -->

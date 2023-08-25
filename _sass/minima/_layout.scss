@@ -137,6 +137,7 @@
   text-decoration: none; /* Remove underline */
   -webkit-tap-highlight-color: transparent; /* For WebKit browsers (e.g., Safari, Chrome) */
   tap-highlight-color: transparent; /* For other browsers */
+  height: 50px;
 }
 
 .page-link:last-child {
