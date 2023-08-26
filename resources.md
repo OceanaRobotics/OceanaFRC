@@ -63,6 +63,12 @@ permalink: /resources/
 - [SolidWorks - 3D Sodeling Software](https://www.solidworks.com/product/students/first-robotics-students){:target="_blank"}
 - [AutoCAD - Fusion 360](https://www.autodesk.com/education/competitions/first){:target="_blank"}
 
+---
+
+### Google Drive Resources
+
+- [FRC Resources](https://docs.google.com/document/d/15C8zG_amuXUMIT9prsG9tARXWJR4kUQTv-c_sbQoC2g/edit?usp=sharing){:target="_blank"}
+
 <!-- ### 2024 FRC Forms
 
 - [Form 1](link-to-form1)

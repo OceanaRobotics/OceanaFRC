@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="icon" href="{{ 'assets/images/robot.png' | relative_url }}">
+  <style>
+    /* General styling */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      overflow: hidden; /* Prevent scrolling on both desktop and mobile */
+    }
+    
+    /* Styles for the welcome section */
+    .welcome-page {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f0f0f0;
+      /* overflow: hidden; // Hide any overflow content */
+    }
+    
+    .welcome-container {
+      text-align: center;
+      margin-top: 200px; /* Push it towards the bottom */
+      /* margin-bottom: 25px; Adjust the value for desired distance from the bottom */
+      /* max-width: 800px; */
+      padding: 20px;
+      position: relative; /* Position relative for absolute positioning */
+
+      animation-name: expandAndShrink;
+      animation-duration: 2s;
+      animation-timing-function: ease-in-out;
+      animation-iteration-count: 1;
+    }
+
+    /* Adjust the welcome container for mobile screens */
+    @media (max-width: 1024px) {
+      .welcome-container {
+        margin-top: 800px;
+        font-size: 48px; /* Adjust font size for mobile */
+        max-width: 100%; /* Increase the max-width for mobile */
+        padding: 20px; /* Increase padding for better spacing */
+        margin-top: 0px;
+      }
+    }
+
+    /* Adjust the welcome container for desktop screens */
+    @media (min-width: 1024px) {
+      .welcome-container {
+        margin-top: 0px; /* Apply a different margin for desktop */
+        max-width: 600px;
+      }
+    }
+
+    @keyframes expandAndShrink {
+      0% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.25); /* Increase size */
+      }
+      100% {
+        transform: scale(1); /* Back to original size */
+      }
+    }
+
+    /* Styles for the welcome container on desktop */
+
+    @media (min-width: 1024px) {
+      .welcome-content {
+        transform: scale(1); /* Adjust the scale factor as needed */
+        transition: transform 0.3s;
+        margin-top: 10px;
+      }
+
+      .welcome-button:hover {
+        transform: scale(1); /* Reset the scale on hover */
+        background-color: blue; /* Darker color on hover */
+        transform: scale(1.2); /* Slightly increase size on hover */
+      }
+    }
+
+    /* Styles for the welcome button */
+    .welcome-button {
+      /* Center the button horizontally and vertically */
+      display: inline-block;
+      background-color: rgba(130, 0, 0, 0.207); /* Contrasting background color */
+      color: #fff; /* White font color */
+      padding: 30px 40px;
+      border: 2px solid rgb(98, 0, 0);
+      border-radius: 50px; /* Make it round */
+      text-decoration: none;
+      font-size: 36px; /* Adjust the font size */
+      padding: 1vh 3vw; /* Use vh and vw units for proportional padding */
+      cursor: pointer;
+      font-size: 48px;
+      align-items: center;
+      justify-content: center;
+      transition: background-color 0.3s, transform 0.2s; /* Add animation */
+      margin-top: 20px;
+    }
+
+    @media (min-width: 1024px) {
+      .welcome-button {
+        margin-top: 25px;
+      }
+    }
+
+    .welcome-button:hover {
+      background-color: rgba(0, 0, 255, 0.46); /* Darker color on hover */
+      transform: scale(1.5); /* Slightly increase size on hover */
+    }
+    
+    .video-background {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      overflow: hidden;
+    }
+    
+    .video-background video {
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+      animation: moveVideo 13s linear infinite; /* Adjust the duration to match the video duration */
+    }
+
+    @keyframes moveVideo {
+      0% {
+        object-position: 75% center; /* Start with the object positioned to the right */
+      }
+      100% {
+        object-position: 23% center; /* Reposition to 75% right of center after the first sequence */
+      }
+    }
+
+    .social-links {
+      display: flex;
+      justify-content: space-evenly;
+      margin-top: 5px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+      padding: 10px;
+    }
+
+    .social-links .social-button {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 40px; /* Adjust the size of the circular outline */
+      height: 40px; /* Adjust the size of the circular outline */
+      border: 2px solid rgba(0, 252, 218, 0.532); /* Colored circular outline */
+      border-radius: 50%; /* Make it a circle */
+      transition: transform 0.2s, border-color 0.3s; /* Add animation */
+    }
+
+    .social-links .social-button:hover {
+      border-color: rgb(130, 0, 0); /* Change the border color on hover */
+      transform: scale(1.5); /* Increase size on hover */
+    }
+
+    .social-links .svg-icon {
+      display: flex;
+      align-items: center;
+      width: 17px; /* Adjust the size of the SVG icons */
+      height: 17px; /* Adjust the size of the SVG icons */
+      fill: rgba(0, 255, 221, 0.526)
+    }
+
+    
+    .video-background {
+      display: none; /* Hide the video container initially */
+    }
+
+    /* Show the video container with animation */
+    .show-video {
+      display: block;
+      animation: fadeIn 3s forwards;
+    }
+
+    /* Keyframes for fading in */
+    @keyframes fadeIn {
+      to {
+        opacity: 1; /* Fade in the element */
+      }
+    }
+
+    /* Hide the video container initially */
+    .video-background {
+      display: none;
+    }
+
+    .oc-logo {
+      display: flex;
+      justify-content: center; /* Horizontally center content */
+      align-items: center; /* Vertically center content */
+      height: 10vh;
+      width: 40vs;
+    }
+
+    @media (max-width: 1024px) {
+      .oc-logo img {
+        width: 60vw;
+        height: 15vh;
+        margin-bottom: 20vh;
+      }
+    }
+
+    @media (min-width: 1024px) {
+      .oc-logo img {
+        width: 60vw; /* Increase the width as needed */
+        height: 35vh; /* Increase the height as needed */
+        margin-bottom: 20vh;
+      }
+    }
+  </style>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      // Initialize Hammer.js on the document body for swipe gesture recognition
+      var hammer = new Hammer(document.body);
+
+      // Listen for a swipe gesture and trigger a page reload
+      hammer.on("swipe", function(event) {
+        if (event.direction === Hammer.DIRECTION_DOWN) {
+          location.reload();
+        }
+      });
+      // After the content is loaded, wait 5 seconds and then show the video container
+      setTimeout(function() {
+        var videoContainer = document.querySelector(".video-background");
+        videoContainer.style.display = "block";
+      }, 2000); // 5000 milliseconds = 5 seconds
+    });
+    </script>
+</head>
+
+<body class="welcome-page">
+  <div class="welcome-container">
+    <div class="video-background show-video">
+      <video muted="true" autoplay loop>
+        <source src="{{ site.baseurl }}/assets/videos/FRCAuton.mp4" type="video/mp4"/>
+        Your browser does not support the video tag.
+      </video>      
+    </div>
+    <div class="welcome-content">
+      <div class="oc-logo"><img src="{{ site.baseurl }}/assets/images/OCRobot.png" alt="OCRobotics"></div>
+      <div class="social-links">
+        <a href="https://github.com/OceanaRobotics" class="social-button"><svg class="svg-icon"><use xlink:href="/OceanaFRC/assets/minima-social-icons.svg#github"></use></svg></a>
+        <a href="https://instagram.com/shelbyhschool" class="social-button"><svg class="svg-icon"><use xlink:href="/OceanaFRC/assets/minima-social-icons.svg#instagram"></use></svg></a>
+        <a href="https://instagram.com/hhspirate" class="social-button"><svg class="svg-icon"><use xlink:href="/OceanaFRC/assets/minima-social-icons.svg#instagram"></use></svg></a>
+        <a href="https://www.twitter.com/hartpirateposse" class="social-button"><svg class="svg-icon"><use xlink:href="/OceanaFRC/assets/minima-social-icons.svg#twitter"></use></svg></a>
+        <a href="https://www.youtube.com/HartPublicSchools" class="social-button"><svg class="svg-icon"><use xlink:href="/OceanaFRC/assets/minima-social-icons.svg#youtube"></use></svg></a>
+      </div>
+      <a href="blog" class="welcome-button">welcome</a>
+    </div>
+  </div>
+</body>
+</html>

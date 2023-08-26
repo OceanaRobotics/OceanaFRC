@@ -11,15 +11,51 @@ function toggleVisibility(elementId) {
 }
 </script>
 
-<div style="text-align: center; background-color: #f4f4f4; padding: 10px; border-radius: 50px; margin-bottom: 40px;">
-  <h2 style="font-size: 44px; font-weight: bold; text-align: center; margin-top: 5px">Oceana Robotics</h2>
-  <h3 style="font-size: 36px; text-align: center; margin-top: 5px">FRC Team 6128</h3>
-  <p style="font-size: 16px; line-height: 1.5; color: #333; text-align: justify;">
+<style>
+  .coach-tap {
+    text-align: center;
+    background-color: rgba(64, 200, 64, 0.25);
+    padding: 5px;
+    border-radius: 50px;
+    margin-bottom 10px;
+    font-size: 36px;
+  }
+
+  .about-wrap {
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 50px;
+    margin-bottom: 40px;
+  }
+  .about-title {
+    font-size: 44px;
+    font-weight: bold;
+    text-align: center;
+    /* margin-top: 5px; */
+  }
+  .about-subtitle {
+    font-size: 24px;
+    font-family: monospace;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .about-content {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    text-align: justify;}
+</style>
+
+<div class="about-wrap">
+  <div class="about-title">Oceana Robotics</div>
+  <div class="about-subtitle">FRC Team 6128</div>
+  <p class="about-content">
     Oceana Robotics is an organization based out of Hart, MI that provides an exemplary robotics experience. Our after-school program teaches students design, programming, and building, along with other valuable skills such as public speaking and marketing. Our program simulates real-life situations and prepares students for their future careers. Our team is mentored by volunteers, all of whom are professionals in the fields that our team prepares our students for. If you're looking for a fun after-school activity, Oceana Robotics could be for you!
   </p>
 </div>
 
-<div style="text-align: center; background-color: green; padding: 5px; border-radius: 50px; margin-bottom 10px; font-size: 36px;">
+<div class="coach-tap">
 Tap to learn more about our Coaches!
 </div>
 
@@ -40,7 +76,7 @@ Tap to learn more about our Coaches!
   </div>
 </div>
 
-<h3 style="text-align: justify;">Please get permission from your parent or guardian to register. They will help you complete the forms that FIRST needs to allow you to join the team. 😜</h3>
+<div class="about-wrap">Please get permission from your parent or guardian to register. They will help you complete the forms at the <a href="{{ site.baseurl }}/jekyll/update/2023/08/11/register-FIRST-account.html">Registration Portal</a> that FIRST needs to allow you to join the team. 😜</div>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 50px;">
   <img src="{{ site.baseurl }}/assets/images/OUCH.gif" alt="OUCH">

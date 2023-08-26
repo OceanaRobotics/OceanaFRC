@@ -30,10 +30,13 @@
 - question: How long does the season last? ⏰
   answer: Oceana Robotics Teams starts off-season preparation in the Fall (09OCT2023-21NOV2023). Then
           the Season Kickoff is 06JAN2024. District Competitions are 06MAR2024. State Championships are
-          03APR2024 (if we qualify). World Championships are 17APR2024 (if we qualify).
+          03APR2024 (if we qualify). World Championships are 17APR2024 (if we qualify). Please see [Calendar]
+          for details
 
 - question: How do I sponsor this team?
   answer: Please reach out to the coaches via our Contact Us page!
 
+# content.yaml
 - question: Where does the team meet? 🗺️
-  answer: MSU AgBioResearch Center in Hart, MI. Please see About or Calendar page for a map.
+  answer: MSU AgBioResearch Center in Hart, MI. Please see [About] page for a map and the [Calendar] page
+          for our schedule.

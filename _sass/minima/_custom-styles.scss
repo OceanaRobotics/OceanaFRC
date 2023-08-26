@@ -90,7 +90,7 @@
   text-align: center;
   margin: 10px;
   -webkit-tap-highlight-color: transparent; /* For WebKit browsers (e.g., Safari, Chrome) */
-  tap-highlight-color: transparent; /* For other browsers */
+  // tap-highlight-color: transparent; /* For other browsers */
 }
 
 .thumbnail-link {
@@ -128,7 +128,7 @@
   font-size: 36px;
   position: relative; /* Add this */
   -webkit-tap-highlight-color: transparent; /* For WebKit browsers (e.g., Safari, Chrome) */
-  tap-highlight-color: transparent; /* For other browsers */
+  // tap-highlight-color: transparent; /* For other browsers */
 }
 
 .question::before {
@@ -177,7 +177,7 @@
   border-radius: 50%;
   margin: 0 auto;
   -webkit-tap-highlight-color: transparent; /* For WebKit browsers (e.g., Safari, Chrome) */
-  tap-highlight-color: transparent; /* For other browsers */
+  // tap-highlight-color: transparent; /* For other browsers */
 }
 
 @media (hover: hover) {
@@ -205,3 +205,6 @@
   display: block;
 }
 // end 'about.md' COACH styling
+
+// Start WelcomeHOME styling
+////////
