@@ -1,47 +1,61 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <link rel="icon" href="{{ 'assets/images/robot.png' | relative_url }}">
   <style>
     /* General styling */
     body {
-      margin: 0;
+      margin: 0px;
       font-family: Arial, sans-serif;
-      overflow: hidden; /* Prevent scrolling on both desktop and mobile */
+      touch-action: manipulation;
+      padding: 0px;
+      /* overflow: hidden; */
     }
-    
+
     /* Styles for the welcome section */
     .welcome-page {
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background-color: #f0f0f0;
-      /* overflow: hidden; // Hide any overflow content */
+      background-color:rgb(0, 0, 0);
     }
     
     .welcome-container {
       text-align: center;
-      margin-top: 200px; /* Push it towards the bottom */
-      /* margin-bottom: 25px; Adjust the value for desired distance from the bottom */
-      /* max-width: 800px; */
-      padding: 20px;
-      position: relative; /* Position relative for absolute positioning */
+      margin-top: 5vh; /* Push it towards the bottom */
+      padding: 0px;
+      position: relative;
 
       animation-name: expandAndShrink;
-      animation-duration: 2s;
+      animation-duration: 1.75s;
       animation-timing-function: ease-in-out;
       animation-iteration-count: 1;
+    }
+    @keyframes expandAndShrink {
+      0% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.3); /* Increase size */
+      }
+      100% {
+        transform: scale(1); /* Back to original size */
+      }
     }
 
     /* Adjust the welcome container for mobile screens */
     @media (max-width: 1024px) {
       .welcome-container {
-        margin-top: 800px;
-        font-size: 48px; /* Adjust font size for mobile */
-        max-width: 100%; /* Increase the max-width for mobile */
-        padding: 20px; /* Increase padding for better spacing */
+        /* margin-top: 20vh; */
+        /* recent- omit? */
+        /* margin-top: 800px; */
+        font-size: 48px;
+        max-width: 100%;
+        padding: 20px;
         margin-top: 0px;
+        margin-bottom: 5vh;
       }
     }
 
@@ -53,88 +67,47 @@
       }
     }
 
-    @keyframes expandAndShrink {
-      0% {
-        transform: scale(1);
-      }
-      50% {
-        transform: scale(1.25); /* Increase size */
-      }
-      100% {
-        transform: scale(1); /* Back to original size */
-      }
-    }
-
-    /* Styles for the welcome container on desktop */
-
     @media (min-width: 1024px) {
       .welcome-content {
-        transform: scale(1); /* Adjust the scale factor as needed */
+        transform: scale(1);
         transition: transform 0.3s;
-        margin-top: 10px;
-      }
-
-      .welcome-button:hover {
-        transform: scale(1); /* Reset the scale on hover */
-        background-color: blue; /* Darker color on hover */
-        transform: scale(1.2); /* Slightly increase size on hover */
+        margin-top: 0px;
+        margin-bottom: 5vh;
       }
     }
 
-    /* Styles for the welcome button */
-    .welcome-button {
-      /* Center the button horizontally and vertically */
-      display: inline-block;
-      background-color: rgba(130, 0, 0, 0.207); /* Contrasting background color */
-      color: #fff; /* White font color */
-      padding: 30px 40px;
-      border: 2px solid rgb(98, 0, 0);
-      border-radius: 50px; /* Make it round */
-      text-decoration: none;
-      font-size: 36px; /* Adjust the font size */
-      padding: 1vh 3vw; /* Use vh and vw units for proportional padding */
-      cursor: pointer;
-      font-size: 48px;
-      align-items: center;
-      justify-content: center;
-      transition: background-color 0.3s, transform 0.2s; /* Add animation */
-      margin-top: 20px;
+    @media (max-width: 1024px) {
+      .welcome-content {
+        transform: scale(1);
+        transition: transform 0.3s;
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+      }
     }
 
+
+    /* Styles for the logo container */
+    .oc-logo {
+      display: flex;
+      justify-content: center; /* Horizontally center content */
+      align-items: center; /* Vertically center content */
+      /* margin-top: 10vh; */
+    }
+
+    /* Styles for the logo image on mobile screens */
+    .oc-logo img {
+      width: 70vw;
+      height: 24vh;
+      margin-bottom: 15vh;
+    }
+
+    /* Media query for desktop screens */
     @media (min-width: 1024px) {
-      .welcome-button {
-        margin-top: 25px;
-      }
-    }
-
-    .welcome-button:hover {
-      background-color: rgba(0, 0, 255, 0.46); /* Darker color on hover */
-      transform: scale(1.5); /* Slightly increase size on hover */
-    }
-    
-    .video-background {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      z-index: -1;
-      overflow: hidden;
-    }
-    
-    .video-background video {
-      object-fit: cover;
-      width: 100%;
-      height: 100%;
-      animation: moveVideo 13s linear infinite; /* Adjust the duration to match the video duration */
-    }
-
-    @keyframes moveVideo {
-      0% {
-        object-position: 75% center; /* Start with the object positioned to the right */
-      }
-      100% {
-        object-position: 23% center; /* Reposition to 75% right of center after the first sequence */
+      /* Adjust logo image styles for desktop */
+      .oc-logo img {
+        width: 50vw;
+        height: 40vh;
+        margin-bottom: 0vh;
       }
     }
 
@@ -151,42 +124,74 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      width: 40px; /* Adjust the size of the circular outline */
-      height: 40px; /* Adjust the size of the circular outline */
-      border: 2px solid rgba(0, 252, 218, 0.532); /* Colored circular outline */
-      border-radius: 50%; /* Make it a circle */
-      transition: transform 0.2s, border-color 0.3s; /* Add animation */
+      width: 40px;
+      height: 40px;
+      border: 2px solid rgba(0, 252, 218, 0.532);
+      border-radius: 50%;
+      transition: transform 0.2s, border-color 0.3s;
     }
 
     .social-links .social-button:hover {
-      border-color: rgb(130, 0, 0); /* Change the border color on hover */
-      transform: scale(1.5); /* Increase size on hover */
+      border-color: rgb(130, 0, 0);
+      transform: scale(1.5);
     }
 
     .social-links .svg-icon {
       display: flex;
       align-items: center;
-      width: 17px; /* Adjust the size of the SVG icons */
-      height: 17px; /* Adjust the size of the SVG icons */
+      width: 17px;
+      height: 17px;
       fill: rgba(0, 255, 221, 0.526)
     }
 
-    
-    .video-background {
-      display: none; /* Hide the video container initially */
+    .welcome-button {
+      display: inline-block;
+      background-color: rgba(25, 25, 25, 0.6);
+      box-shadow: inset 0px 5px 10px rgba(35, 0, 60, 0.5);
+      color: #fff; 
+      padding: 1vh 4vw;
+      border-radius: 80px;
+      text-decoration: none;
+      font-size: 24px;
+      cursor: pointer;
+      align-items: center;
+      justify-content: center;
+      transition: background-color 0.3s, transform 0.2s;
+      margin-top: 10px;
+      -webkit-tap-highlight-color: transparent;
+      animation-name: pulseAnimation;
+      animation-duration: 2s;
+      animation-timing-function: ease-in-out;
+      animation-iteration-count: infinite;
     }
 
-    /* Show the video container with animation */
-    .show-video {
-      display: block;
-      animation: fadeIn 3s forwards;
-    }
-
-    /* Keyframes for fading in */
-    @keyframes fadeIn {
-      to {
-        opacity: 1; /* Fade in the element */
+    @keyframes pulseAnimation {
+      0% {
+        transform: scale(1);
+        box-shadow: 0px 0px 20px 20px rgba(35, 0, 60, 0.2);
       }
+      50% {
+        transform: scale(1.4);
+        box-shadow: 0px 0px 20px 20px rgba(35, 0, 60, 0.5);
+      }
+      100% {
+        transform: scale(1);
+        box-shadow: 0px 0px 20px 20px rgba(35, 0, 60, 0.2);
+      }
+    }
+    
+    .welcome-button:hover {
+      animation: none; /* Disable the pulsating animation on hover */
+      background-color: rgba(0, 0, 255, 0.46);
+      transform: scale(1.8);
+      transition: background-color 0.3s, transform 0.2s;
+    }
+
+    .welcome-button:active {
+      animation: none; /* Disable the pulsating animation on click */
+      background-color: rgba(0, 0, 255, 0.46);
+      transform: scale(1.8);
+      transition: background-color 0.3s, transform 0.2s;
     }
 
     /* Hide the video container initially */
@@ -194,50 +199,83 @@
       display: none;
     }
 
-    .oc-logo {
-      display: flex;
-      justify-content: center; /* Horizontally center content */
-      align-items: center; /* Vertically center content */
-      height: 10vh;
-      width: 40vs;
+    .video-background {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      overflow: hidden;
+    }
+    
+    .video-background video {
+      opacity: 0;
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+      animation: fadeInVideo 1s forwards, moveVideo 13s linear infinite;
     }
 
-    @media (max-width: 1024px) {
-      .oc-logo img {
-        width: 60vw;
-        height: 15vh;
-        margin-bottom: 20vh;
+    @keyframes fadeInVideo {
+      to {
+        opacity: 1; /* Fade in the video */
       }
     }
 
-    @media (min-width: 1024px) {
-      .oc-logo img {
-        width: 60vw; /* Increase the width as needed */
-        height: 35vh; /* Increase the height as needed */
-        margin-bottom: 20vh;
+    @keyframes moveVideo {
+      0% {
+        object-position: 75% center;
+      }
+      100% {
+        object-position: 23% center;
       }
     }
+
+    /* Show the video container with animation */
+    .show-video {
+      animation: fadeIn 2s forwards;
+    }
+
+    /* Keyframes for fading in */
+    @keyframes fadeIn {
+      to {
+        opacity: 1;
+      }
+    }
+
+    /* CSS for fading out the video */
+    .fade-out {
+      animation: fadeOutVideo 3s forwards;
+    }
+
+    @keyframes fadeOutVideo {
+      to {
+        opacity: 0; /* Fade out the video */
+      }
+    }
+
   </style>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
   <script>
+    // after content is loaded, wait two seconds to display video
     document.addEventListener("DOMContentLoaded", function() {
-      // Initialize Hammer.js on the document body for swipe gesture recognition
-      var hammer = new Hammer(document.body);
-
-      // Listen for a swipe gesture and trigger a page reload
-      hammer.on("swipe", function(event) {
-        if (event.direction === Hammer.DIRECTION_DOWN) {
-          location.reload();
-        }
-      });
-      // After the content is loaded, wait 5 seconds and then show the video container
       setTimeout(function() {
         var videoContainer = document.querySelector(".video-background");
         videoContainer.style.display = "block";
-      }, 2000); // 5000 milliseconds = 5 seconds
+
+        // Get the welcome button
+        var welcomeButton = document.querySelector(".welcome-button");
+
+        // Add event listener for the welcome button
+        welcomeButton.addEventListener("click", function() {
+          // Add the "fade-out" class to the video container
+          videoContainer.classList.add("fade-out");
+        });
+        var videoContainer = document.querySelector(".video-background");
+        videoContainer.style.display = "block";
+      }, 1875); // 2000 milliseconds = 2 seconds
     });
-    </script>
+  </script>
 </head>
 
 <body class="welcome-page">

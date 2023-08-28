@@ -8,12 +8,14 @@ permalink: /faq/
   <h2>Frequently Asked Questions</h2>
 </div>
 
+---
+
 <div class="faq-container">
 {% for faq_item in site.data.faq %}
   <div class="faq-item">
     <div class="question">{{ faq_item.question }}</div>
     <div class="answer">
-      {{ faq_item.answer | replace: '[About]', '[About](/OceanaFRC/about/)' | replace: '[Calendar]', '[Calendar](/OceanaFRC/calendar/)' | markdownify }}
+      {{ faq_item.answer | replace: '[About]', '[About](/OceanaFRC/about/)' | replace: '[Calendar]', '[Calendar](/OceanaFRC/calendar/)' | replace: '[Resources]', '[Resources](/OceanaFRC/resources/)' | markdownify }}
     </div>
   </div>
 {% endfor %}

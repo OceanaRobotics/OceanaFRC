@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Join 6128?🤨"
-date:   2023-08-10 14:37:26 -0400
+date:   2023-08-20 14:37:26 -0400
 author: Nicholas Rombach
 categories: jekyll update
 ---

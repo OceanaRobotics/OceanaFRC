@@ -120,21 +120,38 @@
 
 .faq-item {
   margin-bottom: 50px;
+  scale: 0.95;
 }
+
+// .question {
+//   cursor: pointer;
+//   padding: 10px;
+//   font-weight: bold;
+//   font-size: 36px;
+//   position: relative; /* Add this */
+//   -webkit-tap-highlight-color: transparent; /* For WebKit browsers (e.g., Safari, Chrome) */
+//   // tap-highlight-color: transparent; /* For other browsers */
+//   border: 2px solid rgb(0, 13, 255);
+//   border-radius: 10px;
+// }
 
 .question {
   cursor: pointer;
+  padding: 10px;
   font-weight: bold;
   font-size: 36px;
-  position: relative; /* Add this */
-  -webkit-tap-highlight-color: transparent; /* For WebKit browsers (e.g., Safari, Chrome) */
-  // tap-highlight-color: transparent; /* For other browsers */
+  position: relative;
+  -webkit-tap-highlight-color: transparent;
+  border: 2px solid rgb(0, 13, 255);
+  border-radius: 10px;
+  background-color: rgba(0, 13, 255, 0.1); /* Light background color */
+  transition: background-color 0.2s, transform 0.2s, box-shadow 0.2s;
 }
 
 .question::before {
   content: "+";
   position: absolute;
-  left: -20px;
+  left: -30px;
   font-weight: bold;
   transition: transform 1s;
 }
@@ -142,6 +159,12 @@
 .answer {
   display: none;
   margin-top: 10px;
+  margin-bottom: 0;
+}
+
+/* Add this CSS code to your stylesheet or <style> tag */
+.faq-item .answer {
+  margin-bottom: 0; /* Reset the margin for the .answer class within .faq-item */
 }
 
 .show {
