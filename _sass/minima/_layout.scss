@@ -116,7 +116,7 @@
 .site-nav {
   position: absolute;
   top: 9px;
-  right: calc(100% - 400px); /* Use calc() to calculate the distance from the right edge */
+  right: calc(100% - 350px); /* Use calc() to calculate the distance from the right edge */
   background-color: $background-color;
   border: 1px solid $border-color-01;
   border-radius: 5px;
