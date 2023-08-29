@@ -51,7 +51,7 @@ function toggleVisibility(elementId) {
   <div class="about-title">Oceana Robotics</div>
   <div class="about-subtitle">FRC Team 6128</div>
   <p class="about-content">
-    Oceana Robotics is an organization based out of Hart, MI that provides an exemplary robotics experience. Our after-school program teaches students design, programming, and building, along with other valuable skills such as public speaking and marketing. Our program simulates real-life situations and prepares students for their future careers. Our team is mentored by volunteers, all of whom are professionals in the fields that our team prepares our students for. If you're looking for a fun after-school activity, Oceana Robotics could be for you!
+    Oceana Robotics is an organization based out of Hart, MI that provides an exemplary FIRST Robotics Competition experience. Our after-school program teaches students design, programming, and building, along with other valuable skills such as public speaking and marketing. Our program is fun! It simulates real-life situations and prepares students for their future careers. Our team is mentored by volunteers, both of which are professionals in the fields that they prepare the students for. If you are looking for a fun after-school activity, Oceana Robotics could be for you!
   </p>
 </div>
 
