@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!-- tab title -->
+  <title>{{ site.title | escape }}</title>
+  <!-- set window scales -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <!-- favicon (icon on brower tab) -->
   <link rel="icon" href="{{ 'assets/images/robot.png' | relative_url }}">
+  <!-- migrate to scss -->
   <style>
     /* General styling */
     body {
